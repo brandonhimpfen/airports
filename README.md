@@ -1,5 +1,8 @@
 # Airports Dataset
 
+[![DOI](https://zenodo.org/badge/361875952.svg)](https://doi.org/10.5281/zenodo.20127440) 
+[![Support Open Work](https://img.shields.io/badge/Support-Open%20Work-0A0A0A?style=flat&logo=github)](https://github.com/brandonhimpfen/support) 
+
 A cleaned, structured, open dataset of airports with airport codes, names, and geographic coordinates.
 
 ## Dataset Files
