@@ -1,18 +1,18 @@
-﻿Anaa
+Anaa
 EL-ARISH
-Annaba                                  
+Annaba
 APALACHICOLA MUNI AIRPORT
 ARAPOTI
 Aalborg Airport
 Mala Mala
-Al Ain                                  
+Al Ain
 Anapa
 Aarhus Tirstrup Airport
 Altay
-Araxa                                   
-Al Ghaydah                              
+Araxa
+Al Ghaydah
 Abakan
-Asaba                                   
+Asaba
 Albacete
 Abadan
 Allentown/Bethlehem/Easton
@@ -21,11 +21,11 @@ Abilene Regional Apt
 Abidjan
 Kebri Dehar
 Ambler
-Bamaga                                  
+Bamaga
 Albuquerque
 Aberdeen
-Abu Simbel                              
-Al Baha                                 
+Abu Simbel
+Al Baha
 Abuja
 Albury
 Albany Dougherty County Apt
@@ -36,7 +36,7 @@ Lanzarote
 Altenrhein
 Alderney
 Nantucket
-Maragheh                                
+Maragheh
 Araracuara
 Waco Municipal Apt
 Achutupo
@@ -44,11 +44,11 @@ Arcata/Eureka
 Xingyi
 Atlantic City International
 Zabol
-Adana                                   
-Izmir Adnan Menderes Apt                
+Adana
+Izmir Adnan Menderes Apt
 Addis Ababa
 Aden
-Adiyaman                                
+Adiyaman
 ALDAN
 AMMAN MARKA INTL
 Adak Island
@@ -56,7 +56,7 @@ Adelaide International
 ANURADHAPURA
 Kodiak Apt
 DALLAS/ADDISON
-Ardabil                                 
+Ardabil
 ANDREWS AFB
 LEUCHARS
 San Andres Island
@@ -65,7 +65,7 @@ Aek Godang
 ABECHE
 AIOUN-EL-ATROUSS
 Buenos Aires Aeroparque J. Newbery
-Sochi                                   
+Sochi
 Alesund
 Allakaket
 Alexandria International Apt
@@ -77,21 +77,21 @@ Zarafshan
 Afutara
 FORT WORTH ALLIANCE
 AFYON
-Sabzevar                                
+Sabzevar
 Agadir
 Munich Augsburg Apt
 PITTSBURH/ALLEGHENY CO
 Agen
 Angelholm/Helsingborg Angelholm Apt
-  Wanigela
+Wanigela
 Tasiilaq
 Angoon
-Malaga                                  
+Malaga
 AGRINION
 Agra
 Augusta Bush Field
-Ciudad del Este                         
-Aguascalientes                          
+Ciudad del Este
+Aguascalientes
 ACARIGUA
 Agatti Island
 AGGENEYS
@@ -99,7 +99,7 @@ Abha
 Ahe
 Athens
 Alghero
-  Ahu�s
+Ahu�s
 Al Hoceima
 Alliance
 XXX
@@ -109,47 +109,47 @@ XXX
 Wainwright
 Aripuana Airport
 Aitutaki Island
-Atiu Island                             
+Atiu Island
 Ajaccio
-Jouf                                    
-Agri                                    
+Jouf
+Agri
 Aizawl
 Anjouan
 Arvidsjaur
 Aracaju
 Agadez
 Ankang
-Atka                                    
+Atka
 AKRON
 AKOLA
 Kufra
 GASTONIA MUNI
-Akiak                                   
-Asahikawa                               
+Akiak
+Asahikawa
 Akhiok
 Auckland International Apt
 King Salmon
-Anaktuvuk Pass                          
+Anaktuvuk Pass
 AKURE
 Auki
 AKROTIRI
 Aksu
 Akulivik
 Aktobe
-Sittwe                                  
+Sittwe
 Almaty
 Albany International Airport
 Alicante
-Alta                                    
+Alta
 Algiers
 Albany
 ALICE INTL
 ALEXANDER BAY
 ALBENGA
-  Alamogordo
+Alamogordo
 ALTON/ST. LOUIS REGIONAL
 Waterloo
-Aleppo                                  
+Aleppo
 ALEXANDRA
 Alamosa
 Walla Walla
@@ -160,11 +160,11 @@ Ahmedabad
 Arba Minch
 MATARAM/SELAPARANG
 ALMENARA
-Amman Queen Alia International Apt      
+Amman Queen Alia International Apt
 Ambon
 Amsterdam
 AMDERMA
-  Ambatomainty
+Ambatomainty
 ARDMORE
 ANNISTON METROPOLITAN
 Anchorage International Apt
@@ -178,17 +178,17 @@ ANKARA/ETIMESGUT
 Antalaha
 ANNETTE ISLAND
 ANGOCHE
-Antwerp                                 
+Antwerp
 Andahuaylas
-Antigua                                 
-Anvik                                   
+Antigua
+Anvik
 AINSWORTH
-Andenes                                 
+Andenes
 ALTENBURG-NOBITZ
 Eskisehir
-  Anshan
+Anshan
 Ancona
-Aomori                                  
+Aomori
 Karpathos
 PASO DE LOS LIBRES
 Altoona
@@ -203,8 +203,8 @@ NAPA CO
 Naples
 PHILLIPS AAF (ABERDEEN PG)
 GOMEZ NINO APIAY AB
-Apataki                                 
-Nampula                                 
+Apataki
+Nampula
 Alpena
 Apartado
 ANAPOLIS
@@ -214,8 +214,8 @@ Apia Faleolo Apt
 ARAPONGAS
 ARARAQUARA
 Anqing
-Qaisumah                                
-Aqaba                                   
+Qaisumah
+Aqaba
 Arequipa
 NEW IBERIA/ACADIANA RGNL
 Arctic Village
@@ -226,13 +226,13 @@ Armidale
 Stockholm Arlanda Apt
 ARAGARCAS
 Watertown
-Aracatuba                               
-  Minocqua-Woodruff
+Aracatuba
+Minocqua-Woodruff
 Arad
 ARARAT
 ASSAB
-Ashgabat                                
-  Andros Town
+Ashgabat
+Andros Town
 Aspen
 Astrakhan
 ASCENSION AUX AB WIDEAWAKE
@@ -245,33 +245,33 @@ Kayseri
 ASTORIA
 Asuncion
 Amboseli
-Aswan                                   
-Anta                                    
+Aswan
+Anta
 ATBARA
 Arthurs Town Airport
-Atoifi                                  
+Atoifi
 AMBATO/CHACHOAN
-Athens                                  
+Athens
 Atqasuk
 Atlanta Hartsfield-Jackson Intl Apt
 Altamira
-  Namatanai
+Namatanai
 Amritsar
 ATAR
 Atmautluak
 Appleton
 Watertown
-Asyut                                   
-Aruba                                   
+Asyut
+Aruba
 Arauca
 AUXERRE/BRANCHES
-Augusta                                 
+Augusta
 Abu Dhabi International Apt
 Alakanuk
 XXX
 Hiva Oa
 Aurillac
-Austin-Bergstrom International Apt      
+Austin-Bergstrom International Apt
 Aurukun
 WAUSAU DOWNTOWN
 Araguaina
@@ -280,51 +280,51 @@ Anshun
 AVIANO
 CIEGO DE AVILA MAXIMO GOMEZ
 Asheville
-Avignon Caumont Airport                 
+Avignon Caumont Airport
 Wilkes-Barre Scranton International Apt
 ALVERCA-DGMFA
-  Avu Avu
+Avu Avu
 Melbourne Avalon Airport
-  Awaba
-Aniwa                                   
+Awaba
+Aniwa
 WAKE ISLAND AAF
 Ahwaz
 Anguilla
-Alexandroupolis                         
+Alexandroupolis
 Ataq
-Armenia                                 
+Armenia
 ALEXANDRIA/CHANDLER FIELD
 Spring Point
-Arutua                                  
+Arutua
 Akita
-Axum                                    
+Axum
 ARKALYK
-Ayacucho                                
+Ayacucho
 Ayers Rock
 AYR
 WAYCROSS WARE CO
-Antalya                                 
+Antalya
 Phoenix Williams Gateway Airport
-Yazd                                    
+Yazd
 Abu Dhabi Bateen Apt
 Andizhan
 Kalamazoo
 Adrar
-Samana                                  
+Samana
 BEALE AFB MARYSVILLE
 BOSSIER CITY/BARKSDALE AFB
 WESTFIELD/BARNES MUNI
 BAGUIO
-Bahrain                                 
-Batman                                  
+Bahrain
+Batman
 BATTLE MOUNTAIN
 Barranquilla
 Balalae
 BARRETOS/CHAFEI AMSEI
 BAURU
 Baotou
-Barnaul                                 
-Baia Mare                               
+Barnaul
+Baia Mare
 Barcelos
 Balmaceda
 BARTH
@@ -333,29 +333,29 @@ BITBURG
 Kasane
 BATTAMBANG
 Bario
-Berbera                                 
-  Codrington
+Berbera
+Codrington
 BLACKBUSH
 BERBERATI
 BUCHAREST/BANEASA-AUREL VLAICU
 BROKEN BOW
 Baracoa
-Bacolod                                 
+Bacolod
 BAUCAU
 Barcaldine
-  Barra del Colorado
+Barra del Colorado
 Bacau
-Barcelona Apt                           
+Barcelona Apt
 BOCA DO ACRE/NOVO CAMPO
 BOCA RATON
 Benguera Island
-Bermuda L.F Wade International          
+Bermuda L.F Wade International
 Bundaberg
-  Badu Island
+Badu Island
 BAUDETTE INTL
-Bandar Lengeh                           
-Banjarmasin                             
-Hartford Bradley International Apt      
+Bandar Lengeh
+Banjarmasin
+Hartford Bradley International Apt
 BALIKESIR/BANDIRMA
 Bandung
 Bhadrapur
@@ -363,21 +363,21 @@ Vadodara
 BRIDGEPORT/IGOR I. SIKORSKY
 Brindisi
 GBADOLITE
-Bardufoss                               
-Benbecula                               
+Bardufoss
+Benbecula
 BEDFORD/LAURENCE G.HANSCOM FLD
 Belgrade
-Berau                                   
-Belem                                   
+Berau
+Belem
 Benghazi
-  Bellary
+Bellary
 Brest
 Bethel Municipal Apt
 Bedourie
 BEER SHEBA-TEYMAN
 Beira
 BENSON
-Beirut                                  
+Beirut
 Bradford
 Scottsbluff
 Seattle Boeing Field
@@ -387,87 +387,87 @@ MOBILE DOWNTOWN
 Bloemfontein
 CHIREDZI/BUFFALO RANGE
 BEAVER CO
-Bahia Pinas                             
-Belfast International Apt               
+Bahia Pinas
+Belfast International Apt
 Buri Ram
 BAFOUSSAM
 Bucaramanga
 BRAGANCA
-Bangui                                  
-Bingol                                  
-Barbados                                
+Bangui
+Bingol
+Barbados
 Binghamton
 BRUEGGEN
 Bergen
 Bangor
 BANGASSOU
-Baghdad                                 
+Baghdad
 BAGE/GUSTAVO KRAEMER
 Milan Bergamo/Orio al Serio Apt
 SAN VICENTE
 Bar Harbor
 Belfast George Best City Apt
 Blenheim
-  Brus Laguna
-Bisha                                   
+Brus Laguna
+Bisha
 Bahia Blanca
 Bhuj
-Bukhara                                 
-Birmingham                              
+Bukhara
+Birmingham
 Bhopal
-Broken Hill                             
-Bharatpur                               
-Bathurst                                
+Broken Hill
+Bharatpur
+Bathurst
 Bhavnagar
-Bahawalpur                              
+Bahawalpur
 Birmingham Airport
 Beihai
 Bastia
 Big Creek
-  Block Island
+Block Island
 BEATRICE
 BIGGS AAF
 DELTA JUNCTION/FT GREELY ALLEN
 BISHOP E. SIERRA REGNL
-  Bikini Atoll
-Biak                                    
+Bikini Atoll
+Biak
 Billings
 Bimini International Apt
 Bilbao
 Biarritz
-Biratnagar                              
+Biratnagar
 Bismarck
 BRIA
 KEESLER AFB/BILOXI
 BHISHO
-Bejaia                                  
-Bojnurd                                 
+Bejaia
+Bojnurd
 DENVER JEFFCO
 Batsfjord
 Bemidji
-Banjul                                  
-Bujumbura                               
+Banjul
+Bujumbura
 Bahar Dar
 Bentota River
-Bodrum Milas Airport                    
-Leon/Guanajuato                         
+Bodrum Milas Airport
+Leon/Guanajuato
 BEOGRAD/BATAJNICA
 Badajoz
 Moscow Bykovo Apt
-Buckland                                
+Buckland
 BAKER CITY MUNI
 AURORA/BUCKLEY AFB
-Branson                                 
-Kota Kinabalu                           
+Branson
+Kota Kinabalu
 Bangkok Suvarnabhumi International Apt
 CLEVELAND BURKE
 Bakalalan
-Bamako                                  
+Bamako
 Blackall
-Bengkulu                                
+Bengkulu
 Beckley
-  Bukavu
-  Bukoba
+Bukavu
+Bukoba
 Barcelona
 BALBOA/HOWARD AFB
 Las Vegas Boulder City Airport
@@ -475,108 +475,108 @@ Borlange/Falun
 BLUEFIELD
 BLYTHE
 Bellingham
-Batna                                   
-Blackpool                               
+Batna
+Blackpool
 Billund
-Bologna                                 
-Bengaluru                               
+Bologna
+Bengaluru
 BLACKWATER
-Belleville                              
-Blantyre                                
+Belleville
+Blantyre
 Stockholm Bromma Apt
 BRIGHAM CITY
 Belo Tsiribihina
 Broome
 Bloomington-Normal
-  Borkum
+Borkum
 Bhamo
 Bima
 Ban Me Thuot
-Bordj Mokhtar                           
+Bordj Mokhtar
 Belep Island
-Nashville                               
-  Beni
+Nashville
+Beni
 Bandar Abbas
 Brisbane
-Benin City                              
+Benin City
 Bonn Stn. (DE)
-Ballina                                 
-Bronnoysund                             
+Ballina
+Bronnoysund
 BURNS
 BANNU
-Barinas                                 
+Barinas
 Banja Luka
 Bellona
-  Boma
-Bora Bora                               
-Bocas Del Toro                          
+Boma
+Bora Bora
+Bocas Del Toro
 Bordeaux Merignac Apt
-Bogota                                  
-Bournemouth                             
-Boise                                   
-Burgas                                  
-Mumbai                                  
+Bogota
+Bournemouth
+Boise
+Burgas
+Mumbai
 Bonaire
 Bodo
 BOUAR
 Boston Logan International Apt
-  Boset
+Boset
 BOURGES
 BORROLOOLA
-Bobo Dioulasso                          
+Bobo Dioulasso
 BAGAN
-  Batuna
+Batuna
 BARRO DO GARCAS
 BISLIG
 BIG PINEY
-Bole                                    
-Hyderabad Begumpet Airport              
+Bole
+Hyderabad Begumpet Airport
 Balikpapan
 Porto Seguro
 Beaumont Jefferson County Apt
 Qamdo/Changdu
-  Besalampy
+Besalampy
 BALER
 Busselton
 BIGGIN HILL
 Brunswick Glynco Jetport
-Boulia                                  
+Boulia
 Aguadilla
 BARRA BONITA/FAZ SANTA LUIZA
 Blagoveschensk
 Brest
-Barreiras                               
+Barreiras
 BARREIRINHA
 San Carlos de Bariloche
 Brainerd
-Bremen                                  
+Bremen
 Bari
 BOURKE
 Burlington
 Barquisimeto
 Berne Belp
 Brownsville
-Brno                                    
+Brno
 Barra
 Bristol
 BATHURST ISLAND
 Brussels Airport
 BREMERHAVEN
-Barrow Wiley Post/Will Rogers Memorial  
+Barrow Wiley Post/Will Rogers Memorial
 BARAHONA/MARIA MONTEZ
 Bosaso
 Brasilia
-Bahia Solano                            
-Baoshan                                 
+Bahia Solano
+Baoshan
 Bata
 BAIRNSDALE
-Biskra                                  
+Biskra
 Basel
 Basco
-Basrah                                  
+Basrah
 BALSAS
-  Lashkar Gah
-  Bassein
+Lashkar Gah
+Bassein
 Bartletts
 BATTICALOA
 Batam
@@ -587,54 +587,54 @@ BATTLE CREEK W K KELLOGG
 Butte
 Baton Rouge Metropolitan Apt
 Bratislava
-Bettles                                 
+Bettles
 Bintulu
 Burlington
 BURSA/YENISEHIR
 Buka
 Burketown
-Budapest                                
-Buffalo                                 
+Budapest
+Buffalo
 BENGUELA
 BOU-SAADA
-Bulolo                                  
+Bulolo
 Buenaventura
-  Burao
+Burao
 Bulawayo
-Burbank                                 
-Batumi                                  
+Burbank
+Batumi
 Baubau
 BUNIA
 BUNBURY
-Bushehr                                 
-Paris Beauvais-Tille Airport            
-Boa Vista                               
-Boa Vista Island                        
+Bushehr
+Paris Beauvais-Tille Airport
+Boa Vista
+Boa Vista Island
 Brive-la-Gaillarde
-Berlevag                                
+Berlevag
 Vilhena
-Birdsville                              
+Birdsville
 BELMONTE
 BREVES
 Iturup Island
 BEVERLY MUNI
-Bhairawa                                
+Bhairawa
 BARROW ISLAND
 BRAUNSCHWEIG-WOLFSBURG
 BOWLING GREEN/WARREN CO. RGNL
 BUTTERWORTH
-Baltimore Washington International Apt  
-Brac                                    
+Baltimore Washington International Apt
+Brac
 Bandar Seri Begawan
 BALAKOVO
 BREWARRINA
-Burnie                                  
+Burnie
 SYDNEY/BANKSTOWN
-Cayo Las Brujas                         
+Cayo Las Brujas
 Babo
 BAKEL
 BALKHASH
-Bam                                     
+Bam
 Butuan
 Yacuiba
 Meaulte
@@ -642,35 +642,35 @@ BLYTHEVILLE ARKANSAS INTL
 BURLEY MUNI AIRPORT
 BOUAKE
 Bayamo
-Bayankhongor                            
-Bonito                                  
-  L�s�
+Bayankhongor
+Bonito
+L�s�
 BAYREUTH
 Bazaruto Island
 BUZIOS/UMBERTO MODIANO
 BALRANALD
 Belize City Goldson Intl Apt
-Bydgoszcz                               
+Bydgoszcz
 BALIKESIR
 BRYANSK
-Barisal                                 
+Barisal
 Bozeman
-Bolzano/Bozen                           
-Beziers                                 
-Brazzaville                             
+Bolzano/Bozen
+Beziers
+Brazzaville
 BALTI INTL
 BRIZE NORTON
 CAERNARFON
 Cabinda
-Cascavel                                
+Cascavel
 Columbia Metropolitan Apt
 Cagliari
 Ca Mau
-Cairo                                   
+Cairo
 Canaima
 Akron/Canton Ohio Regional
-Campbeltown                             
-Guangzhou                               
+Campbeltown
+Guangzhou
 CLAYTON MUNI ARPK AIRPORT
 Cap Haitien
 CARIBOU MUNI AIRPORT
@@ -683,32 +683,32 @@ Cayenne
 Cobar
 Cochabamba
 CARNICOBAR
-Cambridge                               
-Bechar                                  
+Cambridge
+Bechar
 CABO ROJO/ PEDERNALES
 CIUDAD BOLIVAR
 Cotabato
 Calabar
 Canberra
-Cabimas                                 
+Cabimas
 Catumbela
 COTTBUS-DREWITZ
 CAMPO MOURAO
 CONDOBOLIN
-Cayo Coco                               
+Cayo Coco
 SAINT MARTIN/GRAND CASE
-Carcassonne                             
+Carcassonne
 CHILE CHICO
-Kozhikode                               
+Kozhikode
 Cocos Islands
 CHINCHILLA
-Criciuma                                
+Criciuma
 Chaghcharan
 Concepcion
 Caracas
 Kolkata
 Craig Cove
-  Chub Cay
+Chub Cay
 Cold Bay
 Cedar City
 Paris Charles de Gaulle Apt
@@ -718,45 +718,45 @@ CONCEICAO DO ARAGUAIA
 Chadron
 CHILDRESS
 CAMDEN
-Cordova Mudhole Smith Airport           
+Cordova Mudhole Smith Airport
 Caldwell
 Cebu
 Crescent City
 Ceduna
 Cherepovets
 CHICOPEE/WESTOVER ARB
-Chester                                 
+Chester
 Chiang Rai
 Chelyabinsk
-Central                                 
+Central
 Ciudad Obregon
 CANNES/MANDELIEU
 CHERBOURG/MAUPERTUS
 CESSNOCK
 CHOLET/LE PONTREAU
 BOB SIKES
-Cortez                                  
+Cortez
 Coffee Point
-Cabo Frio                               
+Cabo Frio
 Cacador
 Clermont-Ferrand
 GLENDON/GREAT BEAR LAKE
 CIENFUEGOS JAIME GONZALES
-Chlef                                   
-Donegal                                 
+Chlef
+Donegal
 Caen
 Coffs Harbour
 Kerkyra
 Craig
 Cuiaba
-Changde                                 
+Changde
 Sao Paulo Congonhas Apt
 Cape Girardeau
 Jakarta Soekarno-Hatta Apt
-Camiguin                                
-Cologne/Bonn Apt                        
+Camiguin
+Cologne/Bonn Apt
 Zhengzhou
-Chittagong                              
+Chittagong
 Changchun
 Campo Grande
 Cagayan de Oro
@@ -768,12 +768,12 @@ CHACHAPOYAS
 CHIMBOTE/TNT.J.A DE MONTREUIL
 CHONGJU
 Charlottesville
-Chania                                  
+Chania
 CHATEAUROUX DEOLS
-Charleston                              
+Charleston
 CHATHAM ISLANDS
 Chuathbaluk
-Changuinola                             
+Changuinola
 Choiseul Bay
 Rome Ciampino Apt
 Chico
@@ -786,67 +786,67 @@ Chalkyitsik
 JACKSON JULIAN CARROLL
 Chipata
 CANTON ISLAND
-Shymkent                                
+Shymkent
 Sault Ste Marie Chippewa County Apt
-Canouan Island                          
+Canouan Island
 Chiclayo
 Coari
-Cajamarca                               
+Cajamarca
 Coimbatore
 Calama
 Cheongju
-Chitral                                 
+Chitral
 Chumphon
-Ciudad Juarez                           
+Ciudad Juarez
 COMITAN
 Jeju International
-Clarksburg                              
+Clarksburg
 CHERKASSY
 Crooked Creek
 Chongqing
 Chokurdakh
 CHKALOVSKIY
 CORNELIO PROCOPIO
-Carajas                                 
+Carajas
 SARAKHS
 Chicken
 Conakry
 CANAKKALE
 COMILLA
 San Diego McClellan-Palomar Arpt
-Cleveland Hopkins International Apt     
+Cleveland Hopkins International Apt
 CLINTONVILLE
 Cluj-Napoca
 College Station
-Port Angeles                            
+Port Angeles
 CAROLINA
 Cali
 Clarks Point
-Colima                                  
+Colima
 Charlotte
 COLUMBUS MUNICIPAL
-Caldas Novas                            
+Caldas Novas
 Calvi
 CALABOZO
-Cunnamulla                              
-Colombo Bandaranaike Apt                
+Cunnamulla
+Colombo Bandaranaike Apt
 COOTAMUNDRA
 Ciudad Del Carmen
 CHAMBERY/AIX-LES-BAINS
-Corumba                                 
+Corumba
 Columbus Port Columbus Intl Apt
 Champaign
-  Club Makokola
-Casablanca Mohammed V Apt               
+Club Makokola
+Casablanca Mohammed V Apt
 SANTANA DO ARAGUAIA
 CLERMONT
 COLMAR/HOUSSEN
-  Kundiawa
-Camaguey                                
+Kundiawa
+Camaguey
 Hancock
 COONAMBLE
-  Poruma
-Constanta                               
+Poruma
+Constanta
 Belo Horizonte Tancredo Neves Int Apt
 COGNAC/CHATEAUBERNARD
 Cloncurry
@@ -860,70 +860,70 @@ Cairns
 CHANUTE
 WACO
 Chiang Mai
-Moab                                    
+Moab
 CONCORDIA/COM.J.J.PIERRESTEGUI
 Cody
 COEUR D ALENE AIR TERMINAL
 PATRICK AFB
 COOCH BEHAR
 COONABARABRAN
-Kochi                                   
-  Coll Island
+Kochi
+Coll Island
 CONCORD
 Cotonou
 Choibalsan
-Cordoba                                 
+Cordoba
 Colorado Springs Peterson Field
 COTULLA LA SALLE CO
 Columbia
 CONSTANZA
-  Cape Palmas
+Cape Palmas
 San Martin de Los Andes
 Coober Pedy
 Campeche
-Copenhagen Kastrup Apt                  
+Copenhagen Kastrup Apt
 Copiapo
-Campinas                                
+Campinas
 Casper
 Cape Town
-Campina Grande                          
+Campina Grande
 Shahre Kord
 CALAIS/DUNKERQUE
-  Ciudad Real
+Ciudad Real
 COSTA MARQUES
-Craiova                                 
-Cartago                                 
+Craiova
+Cartago
 Comodoro Rivadavia
 NORTH MYRTLE BEACH/GRAN.STRAND
 Crooked Island
 Luzon Island Apt
-Brussels S. Charleroi Airport           
+Brussels S. Charleroi Airport
 Catarman
-Corpus Christi International Apt        
+Corpus Christi International Apt
 CARAVELAS
 CARANSEBES
 CARRIACOU IS/LAURISTON
-Crotone                                 
+Crotone
 Charleston
 TURKMENABAT
-  Machrins
+Machrins
 CREIL
 Columbus Metropolitan Apt
 Solovetsky
 CASINO
 CAP SKIRING
 CLINTON-SHERMAN
-Magdeburg                               
+Magdeburg
 CROSSVILLE MEM WHITSON FLD
-Changsha                                
+Changsha
 Cheboksary
 Catania
 CUT BANK MUNI
 Catamarca
-  Carti
+Carti
 Cartagena
 Charleville
-Chetumal                                
+Chetumal
 COOKTOWN
 CALVERTON/NAVAL WEAPONS INDUS.
 Sapporo Chitose Apt
@@ -932,22 +932,22 @@ Chengdu
 CROSS CITY
 CLINTON/SAMPSON
 Cucuta
-Cuenca                                  
+Cuenca
 Cuneo
 CUDAL
-Caye Caulker                            
-Culiacan                                
+Caye Caulker
+Culiacan
 CUMANA
-Cancun                                  
+Cancun
 CARUPANU
 Coen
 Curacao
 CUTRALCO
-Chihuahua                               
-Cuzco                                   
+Chihuahua
+Cuzco
 Cincinnati Northern Kentucky Intl Apt
 Cuernavaca
-Ciudad Victoria                         
+Ciudad Victoria
 Clovis Municipal Apt
 CARNAVON
 CANNON AFB/CLOVIS
@@ -961,11 +961,11 @@ Cardiff
 COWRA
 COROWA
 CAICARA
-Cox's Bazar                             
-Coldfoot                                
+Cox's Bazar
+Coldfoot
 Vancouver Coal Harbour SPB
-Kiritimati                              
-Caxias Do Sul                           
+Kiritimati
+Caxias Do Sul
 Nha Trang Cam Ranh Airport
 CHARTERS TOWERS
 Cayman Brac
@@ -976,135 +976,135 @@ Cayo Largo del Sur
 Calbayog
 COLONIA
 Cheyenne Municipal Apt
-  Cuyo
-  Celaya
+Cuyo
+Celaya
 Chersky
-Cauayan                                 
+Cauayan
 CHICHEN ITZA
 Coro
 CAPE ROMANZOF LRRS AIRPORT
-Corozal                                 
-Corazon de Jesus                        
-Constantine                             
+Corozal
+Corazon de Jesus
+Constantine
 Cozumel
-  Chisana
-Cruzeiro Do Sul                         
+Chisana
+Cruzeiro Do Sul
 Corozal
 CZESTOCHOWA RUDNIKI
-Changzhou                               
-Daytona Beach                           
+Changzhou
+Daytona Beach
 Dhaka
-Da Nang                                 
+Da Nang
 BARSTOW DAGGETT
 DAKHLA
-Dallas/Fort Worth Love Field            
-Damascus                                
+Dallas/Fort Worth Love Field
+Damascus
 DANVILLE REGIONAL
-Dar es Salaam                           
+Dar es Salaam
 Datong
-Daru                                    
-David                                   
+Daru
+David
 Dazhou
 Dayton Intl Apt
 Dalbandin
 AL ALAMAIN
-Dubbo                                   
+Dubbo
 Dubuque
 Dambula
-Dubrovnik                               
+Dubrovnik
 DALBY ARP
 Washington Ronald Reagan National Apt
 CANEFIELD
 DECIMOMANNU
 Castres
 Derby
-Dodge City                              
+Dodge City
 Dandong
-Dera Ghazi Khan                         
-Debrecen                                
+Dera Ghazi Khan
+Debrecen
 Decatur
-Dehra Dun                               
-Yuzhno-Kurilsk                          
-Dezful                                  
-Delhi                                   
-Denver Intl Apt                         
+Dehra Dun
+Yuzhno-Kurilsk
+Dezful
+Delhi
+Denver Intl Apt
 DETROIT COLEMAN A.YOUNG MUNI
 DEIR ZZOR
 Dallas/Fort Worth Intl Apt
-Dangriga                                
-Mudgee                                  
-Durango                                 
+Dangriga
+Mudgee
+Durango
 Dumaguete
 ST. ATHAN
 KING ABDULAZIZ AIR BASE DHARAN
-Deer Harbor                             
+Deer Harbor
 AL DHAFRA
-Dhangarhi                               
+Dhangarhi
 Dharamsala
 Dothan
 DEN HELDER/DE KOOY
 DALHART MUNI
 Dibrugarh
 Antsiranana
-Deqen                                   
+Deqen
 Dijon
-Dickinson                               
+Dickinson
 Dili
-Dien Bien Phu                           
+Dien Bien Phu
 Diomede
 DIVINOPOLIS
-Dire Dawa                               
+Dire Dawa
 Diu
 Dickwella
 Diyarbakir
 Jambi
-Djerba                                  
+Djerba
 Djanet
-Jayapura                                
+Jayapura
 Katsina
 DE KALB
 DAKOVICA/AMIKO
-Dakar                                   
+Dakar
 DIKSON
-Douala                                  
-Dalian                                  
+Douala
+Dalian
 Dole
 LAUGHLIN AFB/AIRPORT
 Dillingham
 Duluth International Apt
-Dalat                                   
-Dalaman                                 
+Dalat
+Dalaman
 COLUMBIA GORGE RGNL/DALLES MUN
-Dali                                    
-Dillons Bay                             
-Dalanzadgad                             
+Dali
+Dillons Bay
+Dalanzadgad
 DAVIS MONTHAN AFB
 Taraz
-Doomadgee Mission                       
+Doomadgee Mission
 Moscow Domodedovo Apt
-Bangkok Don Mueang International Arpt   
+Bangkok Don Mueang International Arpt
 Dammam
 DEMING MUNI AIRPORT
 DIAMANTINA
-Dimapur                                 
+Dimapur
 KADENA
 Dundee
 Dunhuang
 Dnipropetrovsk
 DENILIQUIN
-Dinard/St-Malo                          
+Dinard/St-Malo
 DANVILLE/VERMILION COUNTY APT
 DINDER/GALEGU
-Denizli                                 
+Denizli
 Dobo
 DODOMA
 DONGOLA
 Doha
 Donetsk
 Deauville
-Dominica Melville Hall Apt              
+Dominica Melville Hall Apt
 Dolpa
-Dourados                                
+Dourados
 DOVER AFB
 Dongying
 CHICAGO - DUPAGE
@@ -1114,17 +1114,17 @@ Denpasar Bali
 Daqing
 MERCURY DESERT ROCK
 DERBY
-Deering                                 
+Deering
 Drake Bay
 Durango La Plata Apt
 Dresden
 DEL RIO INTL
 Dharavandhoo Island
-Darwin International                    
-Doncaster/Sheffield                     
+Darwin International
+Doncaster/Sheffield
 Dera Ismail Khan
-Des Moines                              
-Ordos                                   
+Des Moines
+Ordos
 Datadawai
 DAET
 Diamantina
@@ -1136,27 +1136,27 @@ Dunedin
 DOUGLAS/BISBEE-DOUGLAS
 Dubois
 Durban King Shaka International Apt
-Duesseldorf International Airport       
+Duesseldorf International Airport
 Dutch Harbor
 Andavadoaka
 DIAVIK DIAMOND MINE
 Devils Lake
-Davao                                   
-  Soalala
-Dawadmi                                 
-Dubai International                     
+Davao
+Soalala
+Dawadmi
+Dubai International
 DYSART
 Zhangjiajie
-Anadyr                                  
+Anadyr
 DYESS AFB
 Dushanbe
-Dzaoudzi                                
+Dzaoudzi
 Zhezkazgan
 DURAZNO/SANTA BERNARDINA
-Eagle                                   
-Emae                                    
+Eagle
+Emae
 Kwajalein Atoll MH
-Nejran                                  
+Nejran
 Kearney
 San Sebastian
 Wenatchee
@@ -1165,21 +1165,21 @@ Elba Island
 Entebbe
 EL OBEID
 El Bayadh
-Esbjerg Airport                         
-Erbil                                   
+Esbjerg Airport
+Erbil
 EL BORMA
 XXX
 St-Etienne
 EL CALAFATE
 ELISABETH CITY CGAS
 ECHUCA
-Ercan                                   
-Panama City NW Florida Beaches Intl     
+Ercan
+Panama City NW Florida Beaches Intl
 Edna Bay
 DEBBA
 ANCHORAGE ELMENDORF AFB
 Edinburgh
-Eldoret                                 
+Eldoret
 LA ROCHE SUR YON/LES AJONCS
 Edremit
 Pormpuraaw
@@ -1187,17 +1187,17 @@ EDWARDS AFB
 NEEDLES
 Eek
 HOUSTON/ELLINGTON FIELD
-  Efogi
-Kefallinia                              
+Efogi
+Kefallinia
 Bergerac
 BOSCOMBE DOWN
 Vail/Eagle County Apt
 Sege
-Geneina                                 
+Geneina
 Belgorod
-Egilsstadir                             
+Egilsstadir
 Eagle River
-Egegik                                  
+Egegik
 EL BOLSON
 CAPE NEWENHAM
 Yeniseysk
@@ -1213,24 +1213,24 @@ EKIBASTUZ
 ELKHART
 ELKINS
 Elko
-Shakhtersk                              
+Shakhtersk
 ESKILSTUNA
-Elcho Island                            
-El Dorado                               
-El Fasher                               
+Elcho Island
+El Dorado
+El Fasher
 EL GOLEA
 North Eleuthera
 Elim
 Elmira/Corning
 ELY MUNI
-El Paso International Apt               
+El Paso International Apt
 Gassim
 East London
 EL TOR
 El Oued
 Elfin Cove
 ELY AIRPORT YELLAND FIELD
-Nottingham East Midlands Airport        
+Nottingham East Midlands Airport
 Emerald
 EMDEN
 Emmonak
@@ -1238,10 +1238,10 @@ EMMEN
 EMPORIA MUNI
 Kenai
 NANCY/ESSEY
-Ende                                    
+Ende
 ENONTEKIO
-Enshi                                   
-  El Nido
+Enshi
+El Nido
 ENNISKILLEN/ST ANGELO
 CENTRALIA MUNI
 NENANA
@@ -1249,47 +1249,47 @@ MARIANO MORENO
 CORONEL ENRIQUE SOTO CANO AB
 ENSCHEDE/TWENTHE
 ENEWETAK AUX AAF
-Enugu                                   
+Enugu
 WENDOVER
 Yan'an
 Medellin Enrique Olaya Herrerra Apt
 Eday
 EL DORADO
-  Elorza
+Elorza
 EPHRATA MUNI
 Epinal
 Esperance
 P�rnu
 Esquel
-Erzincan                                
-Erfurt                                  
+Erzincan
+Erfurt
 ERRACHIDIA MOULAY ALI CHERIF
 Erie
 Erenhot
-Erechim                                 
+Erechim
 Eirunepe
 Windhoek Eros Apt
 Erzurum
-Ankara Esenboga Apt                     
+Ankara Esenboga Apt
 Escanaba
-Eastsound                               
+Eastsound
 ENSENADA
 ALEXANDRIA ESLER REGIONAL
 SHOREHAM
 ESKISEHIR
-Elista                                  
-Esmeraldas                              
+Elista
+Esmeraldas
 EL SALVADOR/RICARDO GARCIA P.
 Essendon
-Essaouira                               
+Essaouira
 Eilat
 Santa Rosa
-Metz/Nancy Lorraine                     
-  Eua
+Metz/Nancy Lorraine
+Eua
 Eugene
 Laayoune
-St Eustatius                            
-Harstad-Narvik                          
+St Eustatius
+Harstad-Narvik
 Sveg
 Yerevan
 Evansville
@@ -1299,51 +1299,51 @@ Wildman Lake
 New Bern
 New York Newark Liberty International Apt
 Excursion Inlet
-Exeter                                  
+Exeter
 Beloyarsky
 El Yopal
-Key West International Apt              
-Buenos Aires Ministro Pistarini         
+Key West International Apt
+Buenos Aires Ministro Pistarini
 Elazig
-Berezovo                                
+Berezovo
 APALACHICOLA / ST. GEORGE ISL
 FARANAH
 FARNBOROUGH
-Faaite                                  
+Faaite
 Faroe Islands
-  Farah
+Farah
 Fairbanks International Apt
 FAKARAVA
 FARSUND/LISTA
-Faro                                    
+Faro
 Fargo
-Fresno Yosemite International Airport   
-Fakarava                                
+Fresno Yosemite International Airport
+Fakarava
 Fayetteville Municipal Apt
 Fonte Boa
 FAIZABAD
 Francisco Beltrao
 FAIRBANKS/FORT WAINWRIGHT AAF
 Lubumbashi
-Friday Harbor SPB                       
+Friday Harbor SPB
 Kalispell
 NORDHOLZ
 Rome Fiumicino Apt
 BUTTS ARMY AFLD FT CARSON
-Forde                                   
+Forde
 Fort de France
-Friedrichshafen                         
+Friedrichshafen
 FREDERICK MUNI
 FINDLAY
 FEIRA DE SANTANA/J.D.CARNEIRO
-Fergana                                 
+Fergana
 FUERSTENFELDBRUCK
-Fernando De Noronha                     
+Fernando De Noronha
 FREEPORT ALBERTUS
-Fes                                     
+Fes
 FAIRFORD (RAF)
 FDERIK
-Fangatau                                
+Fangatau
 FORT HUACHUCA/SIERRA VISTA
 Fakahina
 Kinshasa N'Djili Intl Apt
@@ -1353,14 +1353,14 @@ KISANGANI/BANGOKA
 FUKUI
 Franklin Chess Lamberton Apt
 Fak Fak
-Fukushima                               
+Fukushima
 Florencia
 FLORIANO/CANGAPARA
-Grand Canyon Pulliam Field Airport      
-Fort Lauderdale/Hollywood Intl Apt      
+Grand Canyon Pulliam Field Airport
+Fort Lauderdale/Hollywood Intl Apt
 Florianopolis
 Florence
-Florence                                
+Florence
 Flinders Island
 FT LEAVENWORTH SHERMAN AAF
 Flores Island
@@ -1371,37 +1371,37 @@ Memmingen
 Farmington
 Muenster/Osnabrueck
 FT MYERS PAGE FLD
-Freetown Lungi International Apt        
+Freetown Lungi International Apt
 NEUBRANDENBURG
 Funchal
-  Fane
+Fane
 Nimes
 Pyongyang
-  Fort Collins/Loveland
-Flint                                   
+Fort Collins/Loveland
+Flint
 FLORA MUNI
-Fuzhou                                  
-Fort Dodge                              
+Fuzhou
+Fort Dodge
 TOPEKA FORBES
 Foggia
 FOUMBAN
-Fortuna                                 
-Fortaleza                               
+Fortuna
+Fortaleza
 FORREST
 MELUN/VILLAROCHE
 Freeport
 FT PIERCE ST LUCIE CO INTL
-Frankfurt International Apt             
+Frankfurt International Apt
 FORBES
 FRANCA
-Friday Harbor                           
-Fera Island                             
+Friday Harbor
+Fera Island
 FARMINGDALE/REPUBLIC
 FORLI
-Floro                                   
+Floro
 Flores
 Bishkek
-Francistown                             
+Francistown
 FRITZLAR
 Figari
 Sioux Falls
@@ -1410,27 +1410,27 @@ Fort Smith
 St Pierre
 KINLOSS
 Shizuoka
-Futuna Island                           
-El Calafate                             
+Futuna Island
+El Calafate
 FRONT RANGE DENVER
 GODMAN AAF (FT. KNOX)
 Tolanaro
 FORT WORTH/MEACHAM INTL
 ATLANTA/FULTON COUNTY
-Fuerteventura                           
+Fuerteventura
 Fuyang
 Fukue
 Fukuoka
 Funafuti Atol
 Foshan
 Futuna
-Fuvahmulak                              
+Fuvahmulak
 Fort Wayne Baer Field
 FAIRFIELD MUNI
 CARSWELL AFB
 FORT LAUDERDALE EXECUTIVE
 FAYA LARGEAU
-Fort Yukon                              
+Fort Yukon
 FAYETTEVILLE DRAKE FLD
 BRISTOL/FILTON
 NE ALABAMA RGNL AIRPORT
@@ -1438,98 +1438,98 @@ GABES
 GAFSA/KSAR
 GAYNDAH
 Yamagata
-Galena                                  
+Galena
 Gambell
-Gan Island                              
-Guantanamo Los Canos Apt                
+Gan Island
+Guantanamo Los Canos Apt
 GAO
-Guwahati                                
-  Gamba
+Guwahati
+Gamba
 GAYA
-Gabala                                  
-Great Bend                              
+Gabala
+Great Bend
 Gaborone
 MARIE GALANTE
-Gorgan                                  
+Gorgan
 Gillette
 Guernsey
 GRAND CENTRAL
 Garden City
-Grand Cayman Island                     
+Grand Cayman Island
 Grand Canyon National Park Apt
 CONCEPCION/CARMELO PERALTA
 Grand Canyon West
-Gode                                    
+Gode
 MAGDAGACHI
-Guadalajara                             
+Guadalajara
 Gdansk
 GUASDUALITO
-Gonder                                  
+Gonder
 Grand Turk
 Glendive
-Magadan                                 
+Magadan
 Gelendzhik
 Noumea Magenta Apt
 GECITKALE
-Spokane International Apt               
+Spokane International Apt
 Santo Angelo
-Georgetown                              
+Georgetown
 Nueva Gerona
-General Santos                          
+General Santos
 Geraldton
-Gallivare                               
+Gallivare
 SOUTH BIG HORN CO.
 GREAT FALLS/MALMSTROM AFHP
-Griffith                                
+Griffith
 Grand Forks
 GLENS FALLS FLOYD BENNETT MEML
 Grafton
 GROOTFONTEIN
 Longview
-Kakamega                                
+Kakamega
 GOBERNADOR GREGORES
-George Town                             
+George Town
 Glasgow
 Ghardaia
 Governors Harbour
-  Bullock Harbour
+Bullock Harbour
 Garachine
 GIEBELSTADT AAF
-Ghat                                    
+Ghat
 GUALEGUAYCHU
-Gibraltar                               
-  Boigu Island
+Gibraltar
+Boigu Island
 Rio de Janeiro International Apt
 SIGUIR
-Gilgit                                  
+Gilgit
 GIRARDOT / SANTIAGO VILA
 Gisborne
-Jazan                                   
+Jazan
 Guanaja
 Jijel
 GUAJARA-MIRIM
-Grand Junction                          
-Goroka                                  
+Grand Junction
+Goroka
 GEILENKIRCHEN
-Kooddoo Atoll                           
+Kooddoo Atoll
 GULKANA
-Glasgow International Airport           
+Glasgow International Airport
 GOODLAND RENNER FLD (GOD.MUNI)
 GAINESVILLE MUNI
-Golfito                                 
-Greenville                              
+Golfito
+Greenville
 GLEN INNES
 Galcaio
 Guelmime
-Gloucester/Cheltenham                   
+Gloucester/Cheltenham
 GALVESTON INTL-SCHOLES FLD
 Gladstone
-Golovin                                 
+Golovin
 BREDA/GILZE-RIJEN
 GEMENA
 Gambela
 Gomel
-  Gasmata Island
+Gasmata Island
 KYIV/ANTONOV-GOSTOMEL
 GREYMOUTH
 Gombe
@@ -1539,7 +1539,7 @@ GREENVILLE DOWNTOWN
 San Sebastian/Gomera
 Grodno
 GRENOBLE ST GEOIRS
-Grenada                                 
+Grenada
 GHANZI
 LYUDAO
 GUANAMBI
@@ -1550,16 +1550,16 @@ Goodnews Bay
 Gainesville
 Sanliurfa
 Genoa
-Nuuk                                    
-Goa                                     
+Nuuk
+Goa
 Nizhny Novgorod
 GOMA
 GROTON/NEW LONDON
 GOONDIWINDI
 Gorakhpur
-Golmud                                  
-Goteborg Landvetter Apt                 
-Garoua                                  
+Golmud
+Goteborg Landvetter Apt
+Garoua
 Nhulunbuy
 GOYA
 GORNA/ORYAHOVITSA
@@ -1572,38 +1572,38 @@ Gulfport/Biloxi
 Grand Rapids
 Green Bay
 GRAY AAF AIRPORT FT LEWIS
-Grand Island                            
+Grand Island
 George
 Killeen Gray AAF
-Girona                                  
+Girona
 GURUPI
 Groningen
-Grand Rapids                            
+Grand Rapids
 GROSSETO
 Sao Paulo Guarulhos Intl Apt
 Grozny
-Graciosa Island                         
-Granada                                 
+Graciosa Island
+Granada
 GRIMSEY
 Graz
 GOLDSBORO/SEYMOUR JOHNSON AFB
 Goteborg City Apt
 Gheshm Island
-Greensboro/High Point                   
-Greenville/Spartanburg Apt              
+Greensboro/High Point
+Greenville/Spartanburg Apt
 SHARK EL-OWINAT
 Gustavus Apt
 GEDAREF
-Gatokae                                 
+Gatokae
 WHEELER SACK AAF
 Groote Eylandt
 Great Falls International Apt
 CAIRO WEST MIL
-Gorontalo                               
+Gorontalo
 Columbus Golden Triangle Regional Apt
 The Granites
 Grumeti
-Guatemala City                          
+Guatemala City
 Gunnison
 GUNNEDAH
 GUIRIA ALMIRANTE/C. COLON
@@ -1625,116 +1625,116 @@ GREENVILLE MAJORS
 GAVLE
 Gwadar
 GWERU/THORNHILL
-  Gwalior
+Gwalior
 GREENWOOD/LEFLORE
 Westerland
 GALWAY
 Sayun
 NEGAGE
 COYHAIQUE/TENIENTE VIDAL
-Guayaramerin                            
+Guayaramerin
 Baku Heydar Aliyev International Apt
 Guayaquil
 DONALDSON CENTER AIRPORT
-  Gisenyi
+Gisenyi
 ARGYLE
 GUAYMAS
 Goiania
 GYMPIE
 PHOENIX GOODYEAR
 Guangyuan
-Chicago Gary International Apt          
+Chicago Gary International Apt
 GAZA INTL
 Gizo SB
 Gazipasa
 Gaziantep
-Hasvik                                  
-Hachijo Jima                            
+Hasvik
+Hachijo Jima
 Halmstad
-  Supai Village
-Moroni Prince Said Ibrahim              
+Supai Village
+Moroni Prince Said Ibrahim
 Hannover
-Haikou                                  
-Hamburg Airport                         
+Haikou
+Hamburg Airport
 Hanoi
-Hanimaadhoo                             
-Hail                                    
+Hanimaadhoo
+Hail
 Haugesund
-Havana                                  
+Havana
 HAVERFORDWEST
 Hobart
-Alexandria Borg el Arab                 
+Alexandria Borg el Arab
 HOBART
-Hubli                                   
+Hubli
 Hengchun
 HALLS CREEK
 Holy Cross
 HEIDELBERG AAF
 HYDERABAD
-Heringsdorf                             
-Handan                                  
+Heringsdorf
+Handan
 HAMADAN
 Hayden
 HONDO MUNI
 Hoedspruit
-Hat Yai                                 
-Herat                                   
-Heho                                    
-  Heide-B�sum
+Hat Yai
+Herat
+Heho
+Heide-B�sum
 Heihe
 Helsinki-Vantaa
 HELSINKI/MALMI
 Helsinki Heliport
-Irakleion                               
+Irakleion
 Hohhot
 ATHENS/CENTRAL
 HARDY-ANDERS FLD/NATCHEZ-ADAMS
 HAIFA
 HARTFORD BRAINARD
-Hefei                                   
+Hefei
 HOFN/HORNAFFJOROUR
 HAGFORS
-Hammerfest                              
+Hammerfest
 Hargeisa
 Hughenden
 Hangzhou
 HELGOLAND-DUENE
 Mae Hong Son
 Hagerstown
-Mount Hagen                             
-  Changsha
+Mount Hagen
+Changsha
 HACHINOHE
 Hilton Head Island
-Frankfurt Hahn Airport                  
+Frankfurt Hahn Airport
 H K Heliport
 Hua Hin
 NORTHROP/HAWTHORNE MUNICIPAL
-Hikueru                                 
-Huai'an                                 
+Hikueru
+Huai'an
 Hibbing/Chisholm
 Horn Island
 OGDEN/HILL AFB
 Hiroshima International Apt
 HICKAM
-  Shilabo
+Shilabo
 Jinju
 PORTLAND/HILLSBORO
 Honiara
-  Hayman Island
+Hayman Island
 HIROSHIMANISHI
 HIVA-HOA
 Huaihua
-Khajuraho                               
+Khajuraho
 Healy Lake
 Hakodate
-Hong Kong International Apt             
+Hong Kong International Apt
 Hokitika
-Hoskins                                 
-Phuket                                  
+Hoskins
+Phuket
 HICKORY REGIONAL
 Johannesburg Lanseria International Apt
 HILL CITY MUNI
-Hailar                                  
+Hailar
 HULTSFRED-VIMMERBY
 WHEELING OHIO CO
 Ulanhot
@@ -1746,53 +1746,53 @@ Hamilton
 Khanty-Mansiysk
 Sohag
 Hassi Messaoud
-Hami                                    
-  Khmelnitskiy
+Hami
+Khmelnitskiy
 HOLLOMAN AFB
-Hermosillo                              
+Hermosillo
 Hemavan/Tarnaby
 Hanamaki
 Tokyo Haneda Apt
-Hoonah                                  
+Hoonah
 Honolulu International Apt
 Hana
-Haines                                  
+Haines
 Hobbs Lea County Apt
 Hodeidah
-Houeisay                                
-Hofuf                                   
-Holguin                                 
+Houeisay
+Hofuf
+Holguin
 HOHENEMS/DORNBIRN
-Hao                                     
+Hao
 Homer
-Huron                                   
+Huron
 CAMPBELL AAF (FT CAMPBELL)
 HOF-PLAUEN
-Horta                                   
-Hot Springs                             
-Houston Hobby Apt                       
-Orsta/Volda                             
+Horta
+Hot Springs
+Houston Hobby Apt
+Orsta/Volda
 HA APAI
 Hooper Bay
-Haiphong                                
+Haiphong
 Westchester County
 HOQUIAM/BOWERMAN
 Harbin
 Harare
 Hurghada
-Hambantota                              
+Hambantota
 Kharkiv
-Harlingen                               
+Harlingen
 HASSI RMEL
-Harrison                                
+Harrison
 HERRERA INTL
 BAY ST LOUIS / STENNIS
 HARRISBURG-RALEIGH
 HATTERAS BILLY MITCHELL
-Saga                                    
+Saga
 HASTINGS MUNI
-  Huesca
-Huslia                                  
+Huesca
+Huslia
 HORSHAM
 Zhoushan
 HOMESTEAD
@@ -1802,50 +1802,50 @@ Chita
 KHATANGA
 Hamilton Island
 HOUGHTON LAKE ROSCOMMON CO
-Khatgal                                 
+Khatgal
 Hotan
 Huntington
-Hatay                                   
+Hatay
 REDSTONE AAF(REDSTONE ARSENAL)
-Humera                                  
+Humera
 TERRE HAUTE INTL-HULMAN FLD
-Huahine                                 
+Huahine
 HUE / PHUBAI
 HOULTON
-Hualien                                 
-  Houn
-Hughes                                  
+Hualien
+Houn
+Hughes
 HUTCHINSON MUNI-BUTLER FLD ARP
-Huanuco                                 
+Huanuco
 HUDIKSVAL
 Humaita
-Huatulco                                
+Huatulco
 Humberside
-  Analalava
+Analalava
 Hervey Bay
-Khovd                                   
-Honningsvag                             
+Khovd
+Honningsvag
 New Haven
 Havre
 HAYWARD EXECUTIVE
 HWANGE NATIONAL PARK
 HAY
 Hyannis
-Hyderabad Rajiv Gandhi Intl Arpt        
-Hydaburg                                
+Hyderabad Rajiv Gandhi Intl Arpt
+Hydaburg
 Hollis
 Taizhou
 Hays
 MERVILLE/CALONNE
 HOLZDORF
-  Hanzhong
-Liping                                  
+Hanzhong
+Liping
 HUSAVIK
 Igarka
 MC CONNELL AFB
 Washington Dulles International Apt
-Niagara Falls                           
-Houston George Bush Intercontinental Ap 
+Niagara Falls
+Houston George Bush Intercontinental Ap
 In Amenas
 Kiana
 Siargao
@@ -1854,8 +1854,8 @@ Iasi
 Ibadan
 Ibague
 Indigo Bay Lodge
-Ibaraki                                 
-Ibiza                                   
+Ibaraki
+Ibiza
 ICABARU
 Cicia Island
 NIEUW NICKERIE/MAJ. FERNANDES
@@ -1869,17 +1869,17 @@ Indore
 ZIELONA GORA/BABIMOST
 IEJIMA
 Kiev Zhuliany Intl Apt
-Isafjordur                              
+Isafjordur
 INNISFAIL
 Esfahan
-Ivano-Frankivsk                         
-Bullhead City                           
-Inagua                                  
-Igdir                                   
+Ivano-Frankivsk
+Bullhead City
+Inagua
+Igdir
 Igiugig
 INGHAM
 IZMIR/CIGLI
-Kingman                                 
+Kingman
 ILIGAN
 LANSING MUNI CHICAGO
 Iguazu
@@ -1887,17 +1887,17 @@ INGOLSTADT MANCHING
 Foz do Iguacu
 Iran Shahr
 INISHMAAN
-Ilam                                    
-  Nissan Island
+Ilam
+Nissan Island
 Izhevsk
 JACKSONVILLE MUNI
 Tehran Imam Khomeini International Apt
 Ikerasak
-Iki                                     
+Iki
 KANKAKEE GREATER KANKAKEE
 Nikolski
-Tiksi                                   
-Irkutsk                                 
+Tiksi
+Irkutsk
 ANKENY REGL
 ILOPANGO INTL
 PEREIRA BARRETO/ILHA SOLTEIRA
@@ -1907,41 +1907,41 @@ Wilmington Greater Wilmington Apt
 Iliamna
 Wilmington
 WILMINGTON AIRBORNE PARK
-Ilo-Ilo                                 
+Ilo-Ilo
 Ile Des Pins
 ILO
 Ilorin
 Islay
 ZILINA
-Imphal                                  
+Imphal
 Simikot
 IMPERIAL MUNI
 OWERRI
 Imperatriz
 Iron Mountain
-Independence                            
+Independence
 Yinchuan
 Indianapolis
 AGADIR/INEZGANE
 IN GUEZZAM
 Inhambane
-Nis                                     
+Nis
 WINKLER CO
 International Falls
-Innsbruck                               
+Innsbruck
 Winston-Salem
 Nauru Island
-Inverness                               
+Inverness
 WINSLOW
 In Salah
 Ioannina
 Isle Of Man
-  Impfondo
+Impfondo
 Isotoq
-Ilheus                                  
-Illorsuit                               
-Ipota                                   
-Easter Island                           
+Ilheus
+Illorsuit
+Ipota
+Easter Island
 SANTO ANTONIO DO ICA
 Ipoh
 Ipiales
@@ -1951,72 +1951,72 @@ Ipatinga
 Williamsport
 IPIAU
 AL ASAD AB
-  Qiemo
+Qiemo
 Qingyang
 Iquique
 Iquitos
 Kirakira
-Circle                                  
+Circle
 ISHURDI
 IRECE
 Lockhart River
-  Iringa
+Iringa
 La Rioja
-Kirksville                              
-Igrim                                   
+Kirksville
+Igrim
 NOSHAHR
 BIRAO
 Santa Isabel Rio Negro
 Mount Isa
 Islamabad
 Isles of Scilly St Mary's Apt
-Isparta                                 
+Isparta
 Ishigaki
 ISISFORD
 Nasik
 KISSIMMEE GATEWAY A/P ORLANDO
 Williston
 KINGSTON RGNL JETPORT
-Long Island MacArthur                   
+Long Island MacArthur
 Istanbul Ataturk Airport
 Sulaymaniyah
 ITACOATIARA
 Itaituba
 Ithaca
-  Itokama
+Itokama
 Osaka Itami Airport
 ITABUNA
 Hilo
 ITUMBIARA/HIDROELECTRICA
-Niue                                    
-Innarsuit                               
+Niue
+Innarsuit
 Invercargill
 Ivalo
 INVERELL
 Ivanovo
-Ironwood                                
-Iwami                                   
-Iwakuni                                 
+Ironwood
+Iwami
+Iwakuni
 IWOJIMA
 Agartala
-Bagdogra                                
-Chandigarh                              
-Allahabad                               
-Mangalore                               
-Belgaum                                 
+Bagdogra
+Chandigarh
+Allahabad
+Mangalore
+Belgaum
 KAILASHAHAR
 NORTH LAKHIMPUR/LILABARI
-Jammu                                   
+Jammu
 KESHOD/JUNAGADH
 Leh
 Madurai
 KHOWAI
-  Pathankot
+Pathankot
 KAMALPUR
 Ranchi
 Silchar
 PASIGHAT
-Aurangabad                              
+Aurangabad
 JAMSHEDPUR
 KANDLA/GANDHIDHAM
 Port Blair
@@ -2029,43 +2029,43 @@ Jackson
 PERTH/JANDAKOT
 KANKESANTURAI/JAFFNA
 JACOBABAD
-Jaipur                                  
-Jalapa                                  
-Jackson-Evers International Airport     
-  Jacquinot Bay
-Jauja                                   
-Ilulissat                               
-Jacksonville International Apt          
+Jaipur
+Jalapa
+Jackson-Evers International Airport
+Jacquinot Bay
+Jauja
+Ilulissat
+Jacksonville International Apt
 Higuero
 Jonesboro
 Cannes Palm Beach Heliport
-Joacaba                                 
-  Qasigiannguit
-Julia Creek                             
+Joacaba
+Qasigiannguit
+Julia Creek
 JACOBINA
 JACAREACANGA
 JUNCTION KIMBLE CO
 Ceuta
-Juiz De Fora                            
+Juiz De Fora
 Jodhpur
 JORDAN
 Juazeiro Do Norte
 Sao Joao Del Rei
-Jingdezhen                              
+Jingdezhen
 Jeddah
 Aasiaat
-  Jeh
+Jeh
 JEQUIE
 Jersey
 New York J F Kennedy International Apt
 Paamiut
-Jamnagar                                
+Jamnagar
 Grand Canyon H/P
 Jiagedaqi
-Jiayuguan                               
-  Qeqertarsuaq
+Jiayuguan
+Qeqertarsuaq
 Ji'an
-Johor Bahru                             
+Johor Bahru
 Jinghong
 Kapalua
 Sisimiut
@@ -2078,134 +2078,134 @@ Ikaria Island
 Jimma
 JINJA
 Qianjiang
-Jiujiang                                
+Jiujiang
 Jajao
 JUANJUI
 Meru-Kiina
-Quanzhou                                
+Quanzhou
 Qaqortoq
 Jonkoping
 Chios
 Kalymnos Island
-Janakpur                                
+Janakpur
 Joplin
-Jabalpur                                
+Jabalpur
 JALES
 Mykonos
 Jomsom
-Jamestown                               
+Jamestown
 Jiamusi
 JANUARIA
-Johannesburg O.R. Tambo International   
-Jining                                  
+Johannesburg O.R. Tambo International
+Jining
 Nanortalik
-Narsaq                                  
+Narsaq
 Juneau
 Naxos Is
-Jinzhou                                 
+Jinzhou
 Joensuu
 Yogyakarta
-Joinville                               
-  Yoshkar-Ola
+Joinville
+Yoshkar-Ola
 Jolo
 NJOMBE
-Jos                                     
+Jos
 JOLIET REGIONAL
 Joao Pessoa
 Ji-Parana
 Qaarsut
-Jaque                                   
+Jaque
 CONCORD REGIONAL
-  New York
+New York
 KAPOLEI/KALAELOA/JOHN ROGERS
-Jorhat                                  
+Jorhat
 Kilimanjaro
 JERUSALEM
-  Jaisalmer
+Jaisalmer
 Siteia
-Skiathos                                
+Skiathos
 Jessore
 Johnstown
-Maniitsoq                               
+Maniitsoq
 Syros Island
 Bauru
 JATAI
 Thira
 Astypalaia Island
 Juara Airport
-Juba                                    
-  Juist
+Juba
+Juist
 Jujuy
-Ukkusissat                              
+Ukkusissat
 Juliaca
 Jumla
 Nuugaatsiaq
 Upernavik
-Quzhou                                  
-  Ankavandra
+Quzhou
+Ankavandra
 JEVER
 JWANENG
 ZANJAN 2
-Jixi                                    
+Jixi
 JACKSON/REYNOLDS FLD
 Jiroft
 JYVASKYLA
 Jiuzhaigou
-Kasama                                  
+Kasama
 KARIBA
 Kamishly
-Kaduna                                  
+Kaduna
 Kake
 Kajaani
 Kaltag
-Kano                                    
+Kano
 Kuusamo
 Kaitaia
 KAUHAVA
-Kawthaung                               
-  Kalbarri
+Kawthaung
+Kalbarri
 Kau
-Birch Creek                             
-Kabul                                   
+Birch Creek
+Kabul
 Kiev Borispol Intl Apt
-Kota Bharu                              
+Kota Bharu
 XXX
 Kotabaru
-Krabi                                   
-Kuqa                                    
+Krabi
+Kuqa
 Coffman Cove
-Kadanwari                               
+Kadanwari
 Chignik Fisheries Apt
 Kuching
-Chignik Lagoon Apt                      
+Chignik Lagoon Apt
 Kahramanmaras
-  K�sek�y
-Chignik Lake Apt                        
+K�sek�y
+Chignik Lake Apt
 Koggala
 MASINDI
 Kochi
 KANDI
 KHUZDAR
 Kandahar
-Kendari                                 
+Kendari
 Kardla
-Kaadedhdhoo                             
-Kadhdhoo                                
-  Kandrian
+Kaadedhdhoo
+Kadhdhoo
+Kandrian
 Skardu
 Kadavu Island
 Katugastota
-Nanwalek                                
+Nanwalek
 KAEDI
-Reykjavik Keflavik International Apt    
+Reykjavik Keflavik International Apt
 Kenmore Air Harbor
 Kemerovo
-Ekwok                                   
+Ekwok
 KIEL-HOLTENAU
 Kemi/Tornio
 Nepalganj
-Kerman                                  
-Kengtung                                
+Kerman
+Kengtung
 HALLI
 Keewaywin
 KIFFA
@@ -2213,8 +2213,8 @@ False Pass
 Kastamonu
 KANANGA
 Kingscote
-Kaliningrad                             
-Kagau                                   
+Kaliningrad
+Kagau
 Karaganda
 KEDOUGOU
 Kalgoorlie-Boulder
@@ -2223,56 +2223,56 @@ Koliganek
 Kigali
 KOGALYM
 Kangersuatsiaq
-Kos                                     
+Kos
 Kangding
-  Kagi
-Grayling                                
+Kagi
+Grayling
 KINGAROY
 KERCH INTL
-Khorramabad                             
+Khorramabad
 Kashi
 Kaohsiung
-Karachi                                 
+Karachi
 KAUHAJOKI
 KHARK ISLAND
-  Khamti
-Nanchang                                
-Kullorsuaq                              
-  Kharkhorin
-Khasab                                  
+Khamti
+Nanchang
+Kullorsuaq
+Kharkhorin
+Khasab
 Khabarovsk
-Khoy                                    
-Kauehi                                  
+Khoy
+Kauehi
 KIETA
 KRISTIANSTAD/EVEROD
-Kingfisher Lake                         
-Kish Island                             
+Kingfisher Lake
+Kish Island
 Niigata
 KIRKUK
 Kimberley
-Kingston Norman Manley Intl Apt         
+Kingston Norman Manley Intl Apt
 XXX
-Kerry                                   
-Kisumu                                  
+Kerry
+Kisumu
 Kythira
 Chisinau
 SOUTHDOWNS KITWE
 Osaka Kansai International Airport
 Krasnoyarsk
-Burqin                                  
+Burqin
 KORTRIJK/WEVELGEM
-Koyuk                                   
+Koyuk
 Kitoi Bay
 Khon Kaen
-  Kokoda
+Kokoda
 Kerikeri
-Kongiganak                              
+Kongiganak
 Akiachak
 Kita Kyushu
 LOP BURI/KHOK KATHIAM
-Kirkenes                                
+Kirkenes
 Krasnoselkup
-Kaukura                                 
+Kaukura
 Ekuk
 KIKWIT
 KIKAI
@@ -2281,93 +2281,93 @@ TVER/MIGALOVO
 Kalskag
 KOLHAPUR
 Levelock
-Kalaleh                                 
+Kalaleh
 Larsen Bay
 Kalibo
 Kalmar
 Klagenfurt
-Karlovy Vary                            
+Karlovy Vary
 Klawock
-Kalamata                                
+Kalamata
 KLEINSEE
-  Kerema
+Kerema
 KING KHALED MIL CITY
-Cyangugu                                
+Cyangugu
 Kunming
-Miyazaki                                
-Kumamoto                                
+Miyazaki
+Kumamoto
 KAMINA
 Manokotak
 KEETMANSHOOP
 Komatsu
 Kumasi
 KISIMAYU
-Kalemyo                                 
+Kalemyo
 KOSTROMA SOKERINO
 KHAMIS MUSHAIT/KING KHALED AB
-Moser Bay                               
+Moser Bay
 VINA DEL MAR
 KINDU
 MARHAM
 Kaimana
-Kinmen                                  
-Kakhonak                                
-Kone                                    
+Kinmen
+Kakhonak
+Kone
 JAM/JAM
-King Island                             
+King Island
 Kanpur
 New Stuyahok
 Kununurra
-Kona                                    
-Koumac                                  
-Kupang                                  
+Kona
+Koumac
+Kupang
 Kirkwall
 Kagoshima
 Kokkola/Pietarsaari
 Nakhon Phanom
 Sihanoukville
 Kotlik
-  Koulamoutou
+Koulamoutou
 Kokshetau
 Ganzhou
 Olga Bay
 Ouzinkie
 Point Baker
-  Port Clarence
+Port Clarence
 Kipnuk
-Pohang                                  
-Port Williams                           
+Pohang
+Port Williams
 KEMPSEY
 Perryville
 Port Bailey
 Akutan
-  Karumba
+Karumba
 Kerinci
 KRAMFORS SOLLEFTEA
 Karagwe
-  Kikori
-Krakow                                  
+Kikori
+Krakow
 Korla
 Kiruna
 KURGAN
 Karup
-Krasnodar                               
+Krasnodar
 Kristiansand Kjevik Airport
-Khartoum                                
+Khartoum
 TURKMENBASHI
-Karamay                                 
-Kosrae                                  
+Karamay
+Kosrae
 Kosice
-Karlstad                                
-Kassel                                  
-Kermanshah                              
-Kasos Island                            
+Karlstad
+Kassel
+Kermanshah
+Kasos Island
 KARLSKOGA
 KASSALA
 St Marys
 Kostanay
 Kastoria
-Karshi                                  
+Karshi
 Sandy River
 SIKASSO-DIGNANGAN
 Kristiansund
@@ -2378,10 +2378,10 @@ Thorne Bay
 KITADAITO
 Kerteh
 Ketapang
-Kitale                                  
+Kitale
 Kathmandu
-Ketchikan International Apt             
-  Kingston
+Ketchikan International Apt
+Kingston
 KITEE
 TINDAL
 Teller Mission
@@ -2391,106 +2391,106 @@ Katowice
 Kuantan
 Kudat
 Samara
-  Kubin Island
+Kubin Island
 Kushiro
 Kasigluk
 Kuala Lumpur International Airport
 YAKUSHIMA
-Kaunas                                  
+Kaunas
 Kuopio
-Kulusuk Island                          
+Kulusuk Island
 Kutaisi
 KULLU MANALI
-Gunsan                                  
-Kuummiut                                
-Kavala                                  
+Gunsan
+Kuummiut
+Kavala
 SKOEVDE
 King Cove
 Ganja
 Kavieng
-Kirovsk/Apatity                         
+Kirovsk/Apatity
 Kivalina
 Kavalerovo
 Kirov
-Kwajalein                               
-Guiyang                                 
+Kwajalein
+Guiyang
 Waterfall
-Krivyi Rih                              
+Krivyi Rih
 Kuwait
-Gwangju                                 
-Kwigillingok                            
+Gwangju
+Kwigillingok
 Guilin
 Kowanyama
 Quinhagak
 West Point
 Kwethluk
 KOLWEZI
-  Koro Island
+Koro Island
 KOMSOMOLSK-NA-AMURE HURBA
-Katiu                                   
+Katiu
 Konya
 KLEYATE RENE MOUAWAD
 Karluk
 KYAUKPYU
 KAYES/DAG-DAG
 Koyukuk
-  Kyzyl
+Kyzyl
 Zachar Bay
-Kozani                                  
+Kozani
 Kazan
 Kyzylorda
 Kutahya
-Megisti                                 
+Megisti
 Luanda
-Lae                                     
+Lae
 LAFAYETTE/PURDUE UNIV
-  Labuha
+Labuha
 Lannion
 LAGES
 Aklavik
 LAKELAND LINDER REGIONAL
 Los Alamos
 Lansing
-Laoag                                   
-La Paz                                  
-Beida                                   
+Laoag
+La Paz
+Beida
 Laramie
-Las Vegas McCarran International Apt    
-Lamu                                    
+Las Vegas McCarran International Apt
+Lamu
 Lawton
 Los Angeles International Apt
 BOM JESU DA LAPA
-Leeds Bradford                          
-Lubbock Preston Smith International Apt 
-Hamburg Luebeck-Blankensee Airport      
-Khudzhand                               
-Latrobe                                 
+Leeds Bradford
+Lubbock Preston Smith International Apt
+Hamburg Luebeck-Blankensee Airport
+Khudzhand
+Latrobe
 North Platte
 PARIS/LE BOURGET
 ALBI/LE SEQUESTRE
 Labuan Bajo
 Liberal
-Long Banga                              
+Long Banga
 LABREA
 Labasa
 Labuan
 Libreville
 LUBANG
-Larnaca                                 
+Larnaca
 GALATINA/LECCE
 MAKHADO
 La Ceiba
 A Coruna
 Lake Charles
 LACONIA MUNICIPAL
-Lodz                                    
-Columbus Rickenbacker Apt               
+Lodz
+Columbus Rickenbacker Apt
 PINA DEL RIO/LA COLOMA
 LAKE CITY MUNI
-La Chorrera                             
+La Chorrera
 Longyan
 London City Apt
-Londrina                                
+Londrina
 Lourdes/Tarbes
 Leshukonskoye
 Lord Howe Island
@@ -2499,107 +2499,107 @@ Lamidanda
 Yichun
 Lahad Datu
 LANDIVISIAU
-Derry                                   
+Derry
 Learmonth
-Lebanon                                 
+Lebanon
 Lencois
-St Petersburg Pulkovo Apt               
+St Petersburg Pulkovo Apt
 LE HAVRE/OCTEVILLE
-Almeria                                 
+Almeria
 Leipzig/Halle
 LABE/TATA
-Leon                                    
+Leon
 LEOPOLDINA
 Land's End
 LEINSTER
 Leticia
-  Bureta
+Bureta
 Lexington Blue Grass Apt
 LELYSTAD
 Lumbo
 LANGLEY AFB
 LUFKIN ANGELINA CO
-Lamerd                                  
+Lamerd
 LA FRIA
 Lafayette Regional Apt
 Lome
 New York La Guardia Apt
-Long Beach Apt                          
+Long Beach Apt
 LA GRANGE-CALLAWAY
 Liege Apt
 LEIGH CREEK
 Deadmans Cay
 Langkawi
-Long Lellang                            
-Legaspi                                 
-Lago Agrio                              
+Long Lellang
+Legaspi
+Lago Agrio
 COCHRANE
 MALARGUE
 LOGAN-CACHE
 London Gatwick Apt
 LAHR
-Lahore                                  
+Lahore
 LIGHTNING RIDGE
-London Heathrow Apt                     
-Lanzhou Zhongchuan Apt                  
+London Heathrow Apt
+Lanzhou Zhongchuan Apt
 LIMON MUNI
 LEIDEN/VALKENBURG
-Lifou                                   
+Lifou
 Limoges
 Kauai Island Lihue Municipal Apt
 XXX
 Lille Lesquin Airport
 Lima
-Milan Linate Apt                        
+Milan Linate Apt
 LIMON INTL
 LINS
-Liberia                                 
-Lisbon                                  
-Little Rock                             
+Liberia
+Lisbon
+Little Rock
 LOIKAW
 LIMESTONE/LORING AFB
-Lijiang                                 
-Ljubljana                               
+Lijiang
+Ljubljana
 Lakeba Island
 Seattle Lake Union SPB
 Lokichogio
-Long Akah                               
-Lakselv                                 
-Leknes                                  
-Lucknow                                 
-  Lake Manyara
+Long Akah
+Lakselv
+Leknes
+Lucknow
+Lake Manyara
 LAKENHEATH
 Lulea
 Libo
 Yongzhou
 Lalibela
-Lankaran                                
+Lankaran
 Alluitsup Paa
 Lilongwe
 Lake Minchumina
 Lamacarena
 LE MANS/ARNAGE
 XXX
-Los Mochis                              
+Los Mochis
 Limbang
 LOSSIEMOUTH
-Lampedusa                               
+Lampedusa
 LOUISVILLE-WINSTON COUNTY
 Klamath Falls
-  Lake Murray
-Lamen Bay                               
+Lake Murray
+Lamen Bay
 LANDER
-Lonorore                                
+Lonorore
 Lincang
 Lincoln
 LEONORA
 Lancaster
-Lihir Island                            
+Lihir Island
 Lanai City
 Linz
 Longana
 Loei
-Loja                                    
+Loja
 LONTRAS/HELMUTH BAUNGARTEM
 Lodwar
 LOVELOCK
@@ -2608,58 +2608,58 @@ Praya
 Lagos
 CHICAGO/ROMEOVILLE LEWIS UNI.
 LOUISVILLE/BOWMAN FIELD
-  Monclova
+Monclova
 LONDON-CORBIN ARPT-MAGEE FLD
-Gran Canaria                            
+Gran Canaria
 La Paz
-La Pedrera                              
+La Pedrera
 LA PLATA
 Linkoping
 LIPETSK
 Liverpool
-Lamap                                   
+Lamap
 Lappeenranta
-Luang Prabang                           
-Lopez Island                            
+Luang Prabang
+Lopez Island
 Lampang
 Long Apung
 LIEPAYA
 Le Puy
 Puerto Leguizamo
-  Qala I Naw
+Qala I Naw
 LARISSA
-Laredo                                  
+Laredo
 Longreach
 JACKSONVILLE/LITTLE ROCK AFB
-La Rochelle                             
+La Rochelle
 LINCOLN
 NIAMTOUGOU INTL
-La Romana                               
-Lar                                     
+La Romana
+Lar
 Leros
 Lorient
 LAS CRUCES INTL
-Losuia                                  
+Losuia
 La Serena
 La Crosse
 LAWSON AAF FORT BENNING
-Lashio                                  
+Lashio
 Shetland Islands Sumburgh Apt
 LENSK
 Las Piedras
 LOS ANGELES/MARIA DOLORES
-  Les Saintes
+Les Saintes
 Launceston
 LAS VEGAS/NELLIS AFB
 Lhok Seumawe
-Lismore                                 
+Lismore
 LOSINJ
 TZANEEN
 LATROBE VALLEY
-Ghadames                                
+Ghadames
 Altai
 Latakia
-London Luton Apt                        
+London Luton Apt
 Loreto
 LE TOUQUET/PARIS PLAGE
 ALTUS AFB
@@ -2668,7 +2668,7 @@ Latur
 Latacunga
 Lukla
 Laucala Island
-Luderitz                                
+Luderitz
 GLENDALE/LUKE AFB
 Lugano
 Ludhiana
@@ -2676,11 +2676,11 @@ Cincinnati Municipal Apt
 Mangshi
 Lusaka
 Luena
-  Kalaupapa
+Kalaupapa
 San Luis
 Cape Lisburne
 Langgur
-Luwuk                                   
+Luwuk
 Luxembourg
 Lublin
 LAVAL/ENTRAMMES
@@ -2692,19 +2692,19 @@ LAS VEGAS MUNI
 Lewisburg
 LAMONI MUNI
 LAWRENCE MUNI
-Gyumri                                  
+Gyumri
 Lviv
 LEEUWARDEN
 Lewiston
 Lewistown
 Lawas
 Lhasa/Lasa
-Luang Namtha                            
-Luxor                                   
+Luang Namtha
+Luxor
 Limnos
 LUKULU
 LEADVILLE LAKE CO
-Luoyang                                 
+Luoyang
 Little Cayman
 Lycksele
 LYNEHAM
@@ -2712,46 +2712,46 @@ Lianyungang
 Lynchburg
 Linyi
 LYON/BRON
-Faisalabad                              
-Longyearbyen                            
+Faisalabad
+Longyearbyen
 Lyon St-Exupery Apt
 LYDD
-Lazaro Cardenas                         
+Lazaro Cardenas
 Liuzhou
 Nangan
 Luzhou
 Lawrenceville
 Nyingchi/Linzhi
-Chennai                                 
+Chennai
 Maraba
 Madrid Barajas Apt
-Midland Odessa Regional Apt             
+Midland Odessa Regional Apt
 Madang
 Menorca
 Majuro
 MALAKAL
-Matamoros                               
-Manchester                              
+Matamoros
+Manchester
 Manaus
 Mae Sot
 Maracaibo
-Manus Island                            
-  Matadi
-Maupiti Island                          
+Manus Island
+Matadi
+Maupiti Island
 XXX
-Mayaguez                                
+Mayaguez
 Mombasa
 MAFIKENG
-Monbetsu                                
+Monbetsu
 MOBRIDGE MUNI
 MARYBOROUGH
 Mbeya
-Montego Bay                             
+Montego Bay
 Manistee
 MAMBURAO
 Saginaw
 Masbate
-  Mbambanakira
+Mbambanakira
 MELBOURNE/MOORABBIN
 MARIBOR INTL
 MAUES
@@ -2761,109 +2761,109 @@ Merced Macready Regional Apt
 MAC DILL AFB
 McGrath
 MACHALA/GENERAL M. SERRANO
-Kansas City International Apt           
-McCook                                  
+Kansas City International Apt
+McCook
 Monaco
-Macon Lewis B Wilson Apt                
+Macon Lewis B Wilson Apt
 Orlando International Apt
 Macapa
 MONTE CASEROS
 Muscat
 Mcarthur River Mine
-Mason City                              
+Mason City
 Makhachkala
 Sunshine Coast
 Maceio
 Manado
 Medellin Jose Maria Cordova Intl
-Mudanjiang                              
+Mudanjiang
 MBANDAKA
-Mandalay                                
+Mandalay
 Mar del Plata
-  Middle Caicos
+Middle Caicos
 Harrisburg International Apt
-Mendi                                   
+Mendi
 Chicago Midway Apt
 MERCEDES
 MIDWAY HENDERSON FIELD
-Mendoza                                 
+Mendoza
 Macae
 Melbourne Essendon Apt
-Manta                                   
-Madinah                                 
-Mare                                    
+Manta
+Madinah
+Mare
 Malange
-Mehamn                                  
+Mehamn
 Meridian
 Melbourne Airport
 Memphis International Apt
 MENDE/BRENOUX
 MERSING
 Meulaboh
-Medan                                   
+Medan
 ALMEIRIM/MONTE DOURADO
 Mexico City Juarez International Apt
 Meghauli
 MANSFIELD LAHM REGIONAL
-McAllen                                 
+McAllen
 MOANDA
-  Moala
+Moala
 MATSU/BEIGAN
-Macau                                   
+Macau
 MARADI
 Medford
 Mfuwe
 Managua
 Mount Gambier
 DOBBINS AFB
-Maringa                                 
+Maringa
 MARGATE
 MOENCHENGLADBACH
-Montgomery Dannelly Field               
+Montgomery Dannelly Field
 MAGANGUE/BARACOA
-Mogadishu                               
-Mangaia Island                          
+Mogadishu
+Mangaia Island
 Milingimbi Island
 Morgantown
-Myeik                                   
-Castro                                  
-Mashhad                                 
+Myeik
+Castro
+Mashhad
 MANNHEIM-CITY
 Marsh Harbour
 Manhattan
 MINSK-1
 Mariehamn
 SACRAMENTO MATHER
-Manchester                              
+Manchester
 Mount Hotham
 MOJAVE/KERN COUNTY
 MILDENHALL
 Miami International Apt
 MINOT AFB
-Merida                                  
-Mianyang                                
-Marilia                                 
+Merida
+Mianyang
+Marilia
 XXX
 MIKKELI
 MILANO/BRESSO
-Merimbula                               
+Merimbula
 RAMON AFB
-Monastir                                
-Misima Island                           
+Monastir
+Misima Island
 Maiduguri
 MILLVILLE MUNI
-  Manja
+Manja
 XXX
 Mohenjodaro
 XXX
-Mosjoen                                 
+Mosjoen
 TRIPOLI/MITIGA
-  Monkey Mia
+Monkey Mia
 MOUILLA
 MBUJI MAYI
 Mahajanga
 MANJIMUP
-Mytilini                                
+Mytilini
 Mamuju
 Murcia
 Mirny
@@ -2871,27 +2871,27 @@ KANSAS CITY CH.B.WHEELER DOWNT
 Milwaukee General Mitchell Intl Apt
 Muskegon
 MAKOUA
-Hoolehua                                
-Jackson                                 
+Hoolehua
+Jackson
 Mukah
-Makemo                                  
-Merauke                                 
+Makemo
+Merauke
 MEEKATHARRA
 MAKOKOU
-Manokwari                               
+Manokwari
 Mackay
 MALACCA
 Malta
 Melbourne
 MC ALESTER REGIONAL
 MALAD CITY
-Male                                    
+Male
 MILFORD MUNI/B&J BRISCOE FIELD
 Malang
 Mulhouse
 Moline
 Marshall
-Morelia                                 
+Morelia
 Melilla
 Milos
 MALABANG
@@ -2910,36 +2910,36 @@ Mammoth Lakes
 Matsumoto
 Murmansk
 MIDDLEMOUNT
-Maio Island                             
+Maio Island
 MC ENTIRE AIR NATIONAL GUARD
 Morristown
 Milei
-Malmo Airport                           
-Miyako Jima                             
-  Maimana
+Malmo Airport
+Miyako Jima
+Maimana
 Melangguane
-  Moanda
-  Mana Island
-Maningrida                              
+Moanda
+Mana Island
+Maningrida
 MINNERIYA
 Montserrat
-  Mananjary
+Mananjary
 Manila Ninoy Aquino International Apt
 MONTO
 MONGU
-Mansa                                   
+Mansa
 Minto
 MAWLAMYINE
 MANICORE
 XXX
 Moa
 Mobile Municipal Apt
-Montes Claros                           
+Montes Claros
 Modesto
 MOMEIK
 Maumere
 MONGHSAT
-Mitiaro Island                          
+Mitiaro Island
 Molde
 MOUNT COOK
 MOOMBA
@@ -2947,23 +2947,23 @@ Morondava
 Minot International Apt
 Mountain Village
 Moranbah
-Moorea                                  
+Moorea
 Katima Mulilo
 Caticlan
-  Mamitupo
+Mamitupo
 MOKPO
-Montpellier Mediterranee Apt            
+Montpellier Mediterranee Apt
 Maputo
-Mount Pleasant                          
+Mount Pleasant
 Mulatupo
 EDWARD F KNAPP STATE/BARRE
 MARIUPOL INTL
 MACOMB MUNI
-Magnitogorsk                            
+Magnitogorsk
 MINACU
-Mildura                                 
+Mildura
 Mardin
-Mo I Rana                               
+Mo I Rana
 Nelspruit
 MOUNDOU
 MUSTIQUE
@@ -2972,12 +2972,12 @@ MARIQUITA/MARQUITA
 Mekele
 SMYRNA
 MARGARET RIVER
-Misurata                                
+Misurata
 MARTINSBURG EASTERN WV REG.
 MERIDA
 Masai Mara
 MAREEBA
-  Manare
+Manare
 Masterton
 MARINDUQUE
 MACARA
@@ -2985,26 +2985,26 @@ Marseille Provence Apt
 Mauritius
 Mineralnye Vody
 LOLLAND FALSTER/MARIBO
-Bandar Mahshahr                         
-Monterey Peninsula Apt                  
-Moree                                   
-Muskrat Dam                             
+Bandar Mahshahr
+Monterey Peninsula Apt
+Moree
+Muskrat Dam
 Manston
 Misawa
 Muscle Shoals
 Madison
 Missoula
-Minneapolis International Apt           
+Minneapolis International Apt
 Minsk International Apt
 Mus
 Massena
 Maastricht/Aachen
 Maseru
 Massawa
-New Orleans Louis Armstrong Intl Apt    
-  Namibe
+New Orleans Louis Armstrong Intl Apt
+Namibe
 MONTE ALEGRE
-  Marathon
+Marathon
 Montrose
 MAITLAND
 Metlakatla
@@ -3013,71 +3013,71 @@ MONTAUK
 MITCHELL
 Monteria
 Manzini
-Minatitlan                              
-Mota Lava                               
-Monterrey General Mariano Escobedo Apt  
+Minatitlan
+Mota Lava
+Monterrey General Mariano Escobedo Apt
 Munda
-Maun                                    
-Munich International Airport            
+Maun
+Munich International Airport
 Kamuela
 Mersa Matruh
-Mauke Island                            
-Maturin                                 
+Mauke Island
+Maturin
 MOUNTAIN HOME AFB
 Marudi
 Mascara
 Multan
-  Musoma
+Musoma
 FRANCEVILLE/MVENGUE
 Montevideo
 MOSSORO/DIX SEPT ROSADO
 Mitu
 MOGILEV
-Maroua                                  
-  Mucuri
-Mataiva                                 
+Maroua
+Mucuri
+Mataiva
 Martha's Vineyard
 MASVINGO
-Marion                                  
+Marion
 MEROWE
-  Naone
+Naone
 MOSES LAKE/GRANT COUNTY INTL
 MINERAL WELLS
-  Magwe
+Magwe
 Muan
 Mwanza
 MAXWELL AFB
 Moro
 MINNA
-Mexicali                                
-  Morombe
+Mexicali
+Morombe
 MORLAIX/PLOUJEAN
 Milan Malpensa Apt
-  Maintirano
-Moron                                   
+Maintirano
+Moron
 MORA SILJAN
 Meixian
-Moruya                                  
+Moruya
 MARACAY/EL LIBERTADOR
-Malindi                                 
+Malindi
 Miyake Jima
-Mayaguana                               
-  Murray Island
-Matsuyama                               
+Mayaguana
+Murray Island
+Matsuyama
 MC CALL MUNICIPAL
 MARIB
 MARY
 Mysore
-Myrtle Beach AFB                        
-Myitkyina                               
+Myrtle Beach AFB
+Myitkyina
 Mekoryuk
 YUBA COUNTY/MARYSVILLE
 Mtwara
-Miri                                    
-  Muzaffarnagar
+Miri
+Muzaffarnagar
 MOCIMBOA DA PRAIA
-Makung                                  
-Amasya                                  
+Makung
+Amasya
 MOPTI
 MARANA/PINAL AIRPARK
 Manizales
@@ -3085,11 +3085,11 @@ METZ/FRESCATY
 Manzanillo
 MKUZI
 Mazar-e Sharif
-Mazatlan                                
+Mazatlan
 MUZAFFARPUR
 Mulu
 Mecheria
-Narrabri                                
+Narrabri
 NATITINGOU
 Nagpur
 Naha
@@ -3097,19 +3097,19 @@ Nakchivan
 NAKHON RATCHASIMA
 NALCHIK
 Nadi
-Nanchong                                
+Nanchong
 Naples Capodichino Apt
 Qaanaaq
-Nassau International Apt                
+Nassau International Apt
 Natal
-Napuka                                  
+Napuka
 Nevsehir
 Narathiwat
 Beijing Nanyuan Apt
 XXX
 BERYOZOVO
 Nizhnekamsk
-Enfidha                                 
+Enfidha
 NEW ORLEANS NAS JRB
 BANGKOK SUVARNABHUMI INTL
 Nairobi Jomo Kenyatta International Apt
@@ -3117,34 +3117,34 @@ Chang Bai Shan
 GUANTANAMO US-NAVAL AIR BASE
 Nabire
 NORTH CAICOS
-Nice                                    
-Newcastle                               
+Nice
+Newcastle
 NEWCASTLE
 Nukus
 ANNECY/MEYTHET
 Nouadhibou
 Nanded
-  Mandera
+Mandera
 Qiqihar
-N'Djamena                               
+N'Djamena
 Namdrik Island
 Nador
-Rundu                                   
-Sanday                                  
+Rundu
+Sanday
 NECOCHEA
-  Negril
-Neryungri                               
+Negril
+Neryungri
 SAMNEUA
-Nevis                                   
+Nevis
 NEW ORLEANS/LAKEFRONT
 FALLON NAS/VAN VOORHIS FLD
 Mata'aho (TO)
 FORT WORTH NAS JRB
 YOUNG
 Ningbo
-Ngaoundere                              
+Ngaoundere
 KANEOHE BAY MCAF MOKAPU
-  Ngau
+Ngau
 Nagoya Chubu Centrair International Apt
 CORPUS CHRISTI NAS
 Shiquande
@@ -3154,30 +3154,30 @@ ALAMEDA NAS
 NHATRANG
 NEW HALFA
 NORTHOLT
-Nuku Hiva                               
+Nuku Hiva
 BRUNSWICK NAS
 Nikolai
 Nicosia
 CHINA LAKE NAWS (ARMITAGE FLD)
 Niamey
-  Ninilchik
+Ninilchik
 JACKSONVILLE NAS
 Niaqornat
-Niau                                    
+Niau
 ATSUGI
 Nizhnevartovsk
 Al Najaf
 EL CENTRO NAF
-Nouakchott                              
-Nanjing                                 
-Naukiti                                 
-Nagoya Komaki Airport                   
+Nouakchott
+Nanjing
+Naukiti
+Nagoya Komaki Airport
 CHERRY POINT CUNNINGHAM FIELD
 DIEGO GARCIA
 SAN DIEGO-MIRAMAR MCAS
 Ndola
 Nuevo Laredo
-  Darnley Island
+Darnley Island
 Nelson Lagoon
 Norfolk Island
 KINSHASA/N'DOLO
@@ -3188,41 +3188,41 @@ Nightmute
 MERIDIAN NAS/MC CAIN FIELD
 NAMSANG
 Santa Ana Island
-Nanning                                 
+Nanning
 Nondalton
 Naryan-Mar
 Nan
 NANUQUE
-Nunukan                                 
+Nunukan
 Nanyang
 NOWRA
-Nosara Beach                            
+Nosara Beach
 Knock
 NOGALES
-Nojabrsk                                
+Nojabrsk
 Sinop
-Nosy-Be                                 
+Nosy-Be
 Noumea Tontouta Apt
-Huambo                                  
+Huambo
 Novokuznetsk
 PENSACOLA NAS/F.SHERMAN FLD
 Napier-Hastings
 New Plymouth
 Neuquen
-Nuqui                                   
+Nuqui
 KEY WEST NAS/BOCA CHICA
 Newquay
-Narrandera                              
-  Norderney
+Narrandera
+Norderney
 Norrkoping
-North Ronaldsay                         
-Duesseldorf Weeze Airport               
+North Ronaldsay
+Duesseldorf Weeze Airport
 ROOSEVELT ROADS
 Tokyo Narita Apt
 ALICE TOWN/SOUTH BEMINI
 Now Shahr
 Yaounde Nsimalen Intl Apt
-Norilsk                                 
+Norilsk
 Nelson
 SCONE
 Nuussuaq
@@ -3231,12 +3231,12 @@ CATANIA/SIGONELLA
 NOTODDEN
 POINT MUGU NAS
 Nantes Atlantique Airport
-Nantong                                 
-Newcastle Williamtown Apt               
+Nantong
+Newcastle Williamtown Apt
 Normanton
 Wajima
 MONTERREY/AEROPORTE DEL NORTE
-  Niuatoputapu
+Niuatoputapu
 Natuna
 Sun City
 Nuwara Eliya
@@ -3248,64 +3248,64 @@ Nukutavake
 Nulato
 Nunapitchuk
 MOFFET FEDERAL AIRFIELD
-Norsup                                  
+Norsup
 WHIDBEY ISLAND NAS
 Novy Urengoy
 Neiva
-Navoi                                   
+Navoi
 Narvik
 NOVO ARIPUANA
 KRETCHEVITSY
 NEVERS/FOURCHAMBAULT
-Navegantes                              
+Navegantes
 MOHELI
 Norwich
 Nyagan
 Sunyani
 Nanyuki
-Nadym                                   
+Nadym
 NYNGAN
-Stockholm Skavsta Airport               
-Nay Pyi Taw                             
-Nyaung-U                                
+Stockholm Skavsta Airport
+Nay Pyi Taw
+Nyaung-U
 NZEREKORE/KONIA
 Manzhouli
 SOUTH WEYMOUTH NAS
 NORTH ISLAND/HALSEY FLD NAS
-Orange                                  
+Orange
 Bagram
 Jacksonville
 Oakland International Apt
 Cacoal
 OAMARU
-Oaxaca                                  
+Oaxaca
 OBERPFAFFENHOFEN
 OBIDOS
 ZOERSEL - MIL
-  Oban
+Oban
 Obihiro
 AUBENAS/ARDECHE MERIDIONALE
 Kobuk
-  Obo
+Obo
 Ittoqqortoormiit
-Coca                                    
-  Oca�a
+Coca
+Oca�a
 CORDOBA
 ODENSE
 ODIHAM
-Long Seridan                            
+Long Seridan
 Bodaybo
 Odesa
-  Oak Harbor
+Oak Harbor
 ORD EVELYN SHARP FLD
-Oudomxay                                
+Oudomxay
 OREL YUZHNY
 Ornskoldsvik
 OMAHA/OFFUT
 NORFOLK KARL STEFAN MEMORIAL
-Ogden Municipal Apt                     
+Ogden Municipal Apt
 Kahului
-Ogle                                    
+Ogle
 Ustupu Island
 YONAGUNI
 Ogdensburg
@@ -3313,16 +3313,16 @@ Ouargla
 Vladikavkaz
 OHAKEA
 Ohrid
-Mohe                                    
-Okha                                    
-  Okhotsk
+Mohe
+Okha
+Okhotsk
 KOHAT
 Ourilandia Airport
 Oshima
 OKUSHIRI
 Oita
 Okinawa Naha Apt
-Oklahoma City Will Rogers Apt           
+Oklahoma City Will Rogers Apt
 SAPPORO
 OKIERABU
 COTTESMORE
@@ -3330,72 +3330,72 @@ OKI
 Okayama
 Oksibil
 TOKYO YOKOTA AB
-  Masig Island
+Masig Island
 OSHKOSH GARDEN COUNTY
 OAKEY
-Orland                                  
+Orland
 Olbia
-Sao Paula de Olivenca                   
+Sao Paula de Olivenca
 OLD TOWN/DEWITT FIELD
 Wolf Point
-Old Harbor                              
-  Olpoi
+Old Harbor
+Olpoi
 OLEKMINSK
 OLYMPIA
 Olympic Dam
 NOGALES INTL
 OLIVE BRANCH
 OLNEY-NOBLE
-Omaha Eppley Airfield                   
-  Omboue
+Omaha Eppley Airfield
+Omboue
 ORMOC
-Oranjemund                              
+Oranjemund
 Nome
 MAFRAQ
-Urumiyeh                                
+Urumiyeh
 INTL AIRPORT MOSTAR
-Oradea                                  
-Omsk                                    
+Oradea
+Omsk
 KONA
-  Ononge
-Ondangwa                                
-Mornington Island                       
-Odate Noshiro                           
+Ononge
+Ondangwa
+Mornington Island
+Odate Noshiro
 Oneill
-  Newport
+Newport
 ZONGULDAK/CAYCUMA
-Ontario LA/Ontario International Apt    
+Ontario LA/Ontario International Apt
 COLON/E.A.JIMENEZ
-Toksook Bay                             
+Toksook Bay
 Gold Coast
-Cooma                                   
+Cooma
 OPA LOCKA
 Porto
 Sinop
-Balimo                                  
+Balimo
 NORTH KINGSTON/QUONSET STATE
 ORAN
 Orebro
-Chicago O'Hare International Apt        
+Chicago O'Hare International Apt
 ORLEANS/BRICY
-Norfolk International Apt               
+Norfolk International Apt
 PARAMARIBO/ZORG EN HOOP
 WORCESTER REGIONAL
 Port Lions
-Cork                                    
+Cork
 ORLANDO/EXECUTIVE
-Oran Es Senia Apt                       
+Oran Es Senia Apt
 ORAPA
 NORTHWAY
-Oruro                                   
+Oruro
 Noorvik
 ORMARA
 ORIXIMINA
-Paris Orly Apt                          
+Paris Orly Apt
 OSCODA-WURTSMITH AFB
 Are/Ostersund
 OSHKOSH WITTMAN REGIONAL
-Osijek                                  
+Osijek
 Oskarshamn
 Oslo Gardermoen Airport
 Mosul
@@ -3405,16 +3405,16 @@ Ostrava
 Osh
 OOSTENDE BRUGGE
 Orsk
-Namsos                                  
+Namsos
 XXX
-Contadora                               
+Contadora
 North Bend
 OTTUMWA INDUSTRIAL
 Bucharest Henri Coanda Apt
-  Coto 47
-Kotzebue                                
+Coto 47
+Kotzebue
 Ouagadougou
-Oujda                                   
+Oujda
 OUESSO
 OUDTSHOORN
 BAN HUOEISAY
@@ -3422,17 +3422,17 @@ Oulu
 BATOURI
 OURINHOS
 Zouerate
-Novosibirsk                             
-Asturias                                
+Novosibirsk
+Asturias
 OLAVARRIA
 Sovetsky
 Owensboro
-Bissau                                  
+Bissau
 Oxford
-  Oxnard
+Oxnard
 GAL OYA/AMPARAI
-  Oyem
-  Moyo
+Oyem
+Moyo
 OIAPOQUE
 Ozamis
 Zagora
@@ -3446,7 +3446,7 @@ Paderborn/Lippstadt
 EVERETT/SNOHOMISH CO
 Pagadian
 Paducah
-  Pailin
+Pailin
 PARACHINAR
 PAKSE AIRFIELD
 PALANQUERO / GERMAN OLANO
@@ -3458,21 +3458,21 @@ Patna
 PAULO ALFONSO
 Poza Rica
 PARNAIBA/PREF DR JOAO S. FILHO
-Puebla                                  
+Puebla
 Porbandar
 PINE BLUFF - GRIDER FLD
 Plattsburgh
-Paro                                    
+Paro
 West Palm Beach International Apt
-Paama                                   
+Paama
 PUERTO CABELLO
-Paramaribo Johan A Pengel Apt           
+Paramaribo Johan A Pengel Apt
 Paraburdoo
-Punta Islita                            
+Punta Islita
 PIMENTA BUENO
 PUERTO BARRIOS
 Putao
-  Portage Creek
+Portage Creek
 Painter Creek
 Pucallpa
 PRINCIPE
@@ -3485,10 +3485,10 @@ Padang
 ATLANTA/DE KALB-PEACHTREE
 Ponta Delgada
 Punta Del Este
-Piedras Negras                          
-Pendleton                               
+Piedras Negras
+Pendleton
 Plovdiv
-Portland                                
+Portland
 Pelican
 Pardubice
 Perm
@@ -3498,26 +3498,26 @@ Pereira
 Beijing Capital Intl Apt
 Puerto Maldonado
 Penang
-Perth                                   
+Perth
 Petrozavodsk
 Pelotas
-Puerto Lempira                          
-Peshawar                                
+Puerto Lempira
+Peshawar
 Pechora
-Penza                                   
+Penza
 Passo Fundo
 PANAMA CITY/BAY COUNTY
 Paphos
-Parsabad                                
+Parsabad
 ILEBO
-Page                                    
-Punta Gorda                             
+Page
+Punta Gorda
 Perpignan
 NOVO PROGRESSO/CACHIMBO
 PANTNAGAR/NAINITAL
 Pangkalpinang
 Port Graham
-Asaloyeh                                
+Asaloyeh
 Greenville
 Perigueux
 PONTA GROSSA
@@ -3526,11 +3526,11 @@ Port Hedland
 Newport News
 Port Harcourt City
 PINHEIRO
-Philadelphia International Apt          
+Philadelphia International Apt
 PORT HURON - ST CLAIRE CO INTL
 Point Hope
 PHILIP
-  Pacific Harbour / Deuba
+Pacific Harbour / Deuba
 Phitsanulok
 PARIS - EDGAR COUNTY
 Phalaborwa
@@ -3540,11 +3540,11 @@ Laurel Hattiesburg-Laurel Regional Apt
 Tampa St Petersbrg-Clearwater Intl Apt
 PINGTUNG/NORTH AIRPORT
 Pocatello
-Glasgow Prestwick Apt                   
+Glasgow Prestwick Apt
 Parintins
 PISCO INTL
 Pilot Point Airport
-Pierre                                  
+Pierre
 Poitiers Biard Airport
 Pittsburgh International Apt
 Piura
@@ -3554,35 +3554,35 @@ Point Lay
 Pajala
 PEDR J.CABALERO/AUGUSTO FUSTER
 Panjgur
-Puerto Jimenez                          
+Puerto Jimenez
 Napaskiak
 Parkersburg/Marietta
-Petropavlovsk                           
+Petropavlovsk
 PARK RAPIDS MUNI - KONSHOK FLD
-Parkes                                  
+Parkes
 Pangkor
-  Pakokku
-Pangkalanbun                            
+Pakokku
+Pangkalanbun
 PARAKOU
 Pokhara
 Pekanbaru
 PSKOV
 SELEBI-PHIKWE
 Palangkaraya
-Pakse                                   
+Pakse
 PLATTSBURG
-  Playa S�mara
+Playa S�mara
 PLYMOUTH
 PALM ISLAND
-Placencia                               
+Placencia
 MANAUS/PONTA PELADA
 Palembang
 Pellston
 Port Lincoln
 Klaipeda/Palanga
-Providenciales                          
-Belo Horizonte Pampulha Apt             
-Palu                                    
+Providenciales
+Belo Horizonte Pampulha Apt
+Palu
 Semey
 Port Elizabeth
 PEMBA/CHAKE CHAKE
@@ -3591,7 +3591,7 @@ PALMDALE RGNL/USAF PLANT 42
 Milan Parma Apt
 PONTA PORA/INTL
 Palma De Mallorca
-  Palm Island
+Palm Island
 Port Moller
 Palermo
 Palmerston North
@@ -3599,43 +3599,43 @@ PALMYRA
 Porlamar
 Palmas
 Puerto Madryn
-Palmar                                  
+Palmar
 Pamplona
 PORTO NATIONAL
 PONCA CITY RGNL
 Punta Gorda
 NORTHEAST PHILADELPHIA
 PARANAGUA
-Phnom Penh                              
+Phnom Penh
 Pohnpei
 Pontianak
-Pantelleria                             
-Popondetta                              
+Pantelleria
+Popondetta
 Pune
 Pointe-Noire
-Pensacola Municipal Apt                 
+Pensacola Municipal Apt
 PUERTO NATALES/TTE.J.GALLARDO
 Pondicherry
-Petrolina                               
+Petrolina
 Porto Alegre
 FAYETTEVILLE/POPE AFB
-  Podor
+Podor
 POPLAR BLUFF MUNI
 Port Gentil
-Potosi                                  
+Potosi
 Patos De Minas
 Pemba
 Port Moresby
 POCOS DE CALDAS
-Puerto Plata                            
+Puerto Plata
 Pori
-Port of Spain                           
+Port of Spain
 PORT ANTONIO/KEN JONES
 POUGHKEEPSIE - DUTCHESS CO
 PORTOROZ/INTL
 PONTOISE/CORMEILLES EN VEXIN
 Poznan
-President Prudente                      
+President Prudente
 Puerto Penasco
 Pago Pago
 PORT PIRIE
@@ -3645,14 +3645,14 @@ Popayan
 Proserpine
 Paraparaumu
 Puerto Princesa
-Tahiti                                  
+Tahiti
 Port Protection
 Papa Westray
 POUSO ALEGRE
-Phuquoc                                 
+Phuquoc
 Presque Isle
 Port Macquarie
-Pilot Station                           
+Pilot Station
 PARANA/GENERAL URQUIZA
 PASO ROBLES MUNI
 Prescott
@@ -3661,36 +3661,36 @@ Phrae
 Praslin Island
 PORTIMAO
 Pristina
-  Presidencia Roque S�enz Pe�a
-  Parasi
+Presidencia Roque S�enz Pe�a
+Parasi
 PYAY
 PREROV
 Pisa
-Pasco                                   
+Pasco
 PORT SAID
 Ponce
 PITTSFIELD PENSTONE MUNI
-Petersburg                              
+Petersburg
 PASNI
 Poso
 PERTH/SCONE
 PORTSMOUTH INTL AT PEASE
 Pasto
 Palm Springs Municipal Apt
-Pescara                                 
+Pescara
 Posadas
 Putussibau
 PASSOS
 PALACIOS MUNI
-Puerto Suarez                           
+Puerto Suarez
 Port Alsworth
-  Malolo Lailai Island
+Malolo Lailai Island
 Polokwane
 Port Heiden
 Portland
 PONTIAC OAKLAND COUNTY INTL
 PATO BRANCO
-Pointe-a-Pitre                          
+Pointe-a-Pitre
 PORTO DE MOZ
 Platinum
 Panama City Tocumen International
@@ -3701,7 +3701,7 @@ PUERTO DESEADO
 Puerto Obaldia
 Pau
 Port Augusta
-Punta Cana                              
+Punta Cana
 Pomala
 Punta Arenas
 Busan
@@ -3711,31 +3711,31 @@ Pullman
 Pula
 PUERTO CABEZAS
 Providencia
-Provincetown                            
-Providence                              
+Provincetown
+Providence
 Shanghai Pudong International Apt
 Porto Velho
 PARANAVAI
 Preveza/Lefkada
 PORTOVIEJO/REALES TAMARINDOS
-Puerto Vallarta                         
+Puerto Vallarta
 PROVIDENIYA BAY
 Provo
 OKLAHOMA CITY - WILEY POST
 Pevek
-  Chicago/Prospect Heights/Wheeling
-Portland                                
+Chicago/Prospect Heights/Wheeling
+Portland
 Pavlodar
 Puerto Escondido
 Porto Santo
 Pleiku
 Playon Chico
 Puerto Ayacucho
-Polyarny                                
+Polyarny
 ANDRAVIDA
-Pai                                     
+Pai
 Pietermaritzburg
-  Penzance
+Penzance
 Zhob
 Panzhihua
 Puerto Ordaz
@@ -3748,7 +3748,7 @@ L'AQUILA
 ARNHEIM/DEELEN
 ECH CHELIFF
 BEBEDOURO
-Bella Coola                             
+Bella Coola
 BESANCON/LA VEZE
 SOBRAL
 BOTUCATU
@@ -3804,7 +3804,7 @@ JOHANNESBURG/RAND
 RANCAGUA/DE LA INDEPENDENCIA
 CARAZINHO
 NARROMINE
-Queretaro                               
+Queretaro
 Warri
 RESENDE
 SABADELL
@@ -3815,11 +3815,11 @@ SALERNO PONTECAGNANO
 ROTHENBURG/OBERLAUSITZ
 CARATINGA/UBAPORANGA
 Ubari
-Uyo                                     
+Uyo
 GUSAU
 UTSUNOMIYA
 Aappilattoq Nanortalik Heliport
-Ammassivik Heliport                     
+Ammassivik Heliport
 UNIAO DA VITORIA
 AVARE/ARANDU
 Wuerzburg Stn. DE
@@ -3831,15 +3831,15 @@ YASOUJ
 UPPSALA
 SZEGED
 Rabaul
-Arar                                    
-Rafha                                   
+Arar
+Rafha
 Praia
 Rajkot
 Marrakech
 RIVERSIDE MUN
-Ribeirao Preto                          
+Ribeirao Preto
 Rapid City Regional Apt
-Rarotonga Island                        
+Rarotonga Island
 Rasht
 RADUZHNY
 Rabat
@@ -3851,13 +3851,13 @@ Rurrenabaque
 Rio Branco
 Ramata
 Rumbek
-Ruby                                    
+Ruby
 ELLSWORTH AFB/RAPID CITY
 Richards Bay
-Roche Harbor                            
+Roche Harbor
 Riohacha
-  Redcliffe
-Richmond                                
+Redcliffe
+Richmond
 ROCHEFORT/ST. AGNANT
 Cinder River
 RECONQUISTA
@@ -3871,10 +3871,10 @@ GRAND FORKS AFB
 Raleigh/Durham
 Red Devil
 Rodez
-Reao                                    
+Reao
 RECHLIN-LAERZ
 Recife
-Reggio di Calabria                      
+Reggio di Calabria
 Trelew
 Orenburg
 ROME STATE
@@ -3885,7 +3885,7 @@ Reus
 Reynosa
 Resende
 Chicago Rockford Airport
-Raiatea Island                          
+Raiatea Island
 Rio Grande
 Rangiroa Island
 Gorno-Altaysk
@@ -3896,13 +3896,13 @@ RENGAT/JAPURA
 Rio Hondo
 REIMS/CHAMPAGNE
 Rhinelander
-Rhodes                                  
+Rhodes
 Santa Maria
-Riberalta                               
+Riberalta
 Richmond
 Rio Grande
 RIOJA
-  Ringi Cove
+Ringi Cove
 Rishiri
 MARCH AFB/RIVERSIDE
 Riverton
@@ -3934,7 +3934,7 @@ Colombo Ratmalana Apt
 Rampart
 Taichung
 RAMSTEIN AB
-Rimatara                                
+Rimatara
 Arona
 Ronneby/Karlskrona
 RANDOLPH AFB
@@ -3943,19 +3943,19 @@ YORON
 Rennell
 RAMONA
 Bornholm
-Reno                                    
-  Rongelap Island
+Reno
+Rongelap Island
 Rennes St Jacques Airport
 RENTON MUN
 Roanoke
 Monrovia Roberts International Apt
-Rochester                               
+Rochester
 Roi Et
 Rockhampton
 MARECHAL CANDIDO RONDON
-Rondonopolis                            
+Rondonopolis
 Rota
-Koror                                   
+Koror
 Rosario
 Rotorua
 Rostov
@@ -3966,41 +3966,41 @@ Raipur
 WINDOW ROCK
 Rodrigues Island
 ROURKELA
-Raroia                                  
+Raroia
 Roros
 Santa Rosa
 Rock Sound
 Russian Mission
-Rosario                                 
+Rosario
 RUSSELL MUNI
 Rochester Municipal Apt
 Yeosu
-Fort Myers SW Florida International Apt 
+Fort Myers SW Florida International Apt
 Rotuma Island
 Roatan
 Rotterdam Apt
 Saratov
 Arua
 CURITIBA/BACACHERI PR
-Shahrud                                 
+Shahrud
 Butembo
-Riyadh                                  
-  Ruidoso
-  Rukumkot
+Riyadh
+Ruidoso
+Rukumkot
 Rumjatar
-St-Denis                                
-Rupsi                                   
+St-Denis
+Rupsi
 Rurutu
 Marau Island
 Rutland
-  Farafangana
+Farafangana
 Rio Verde
 Saravena
-Rorvik                                  
+Rorvik
 Rovaniemi
 TULSA - RICHARD LLOYD JONES JR
 Ravensthorpe
-Raivavae                                
+Raivavae
 RIVERA
 REDWOOD FALLS MUNI
 ROCKY MOUNT - WILSON REGIONAL
@@ -4013,28 +4013,28 @@ Rahim Yar Khan
 SANTA CRUZ
 Rzeszow
 CLR Airport
-Ramsar                                  
+Ramsar
 Sawan
-Saba                                    
+Saba
 SACRAMENTO EXECUTIVE
 SAFFORD REGIONAL
 Saatut
 Santa Fe
 Sanaa
 SAUDARKROKUR/ALEXANDER
-San Salvador                            
+San Salvador
 San Diego International
-San Pedro Sula                          
-  San Andros
+San Pedro Sula
+San Andros
 SPARTA COMMUNITY - HUNTER FLD
-San Antonio International Apt           
+San Antonio International Apt
 Savannah/Hilton Head International Apt
 Istanbul Sabiha Gokcen Apt
 Sambu
 SIENA/AMPUGNANO
-Santa Barbara Municipal Apt             
+Santa Barbara Municipal Apt
 SAN BERNARDINO INTL
-St Barthelemy                           
+St Barthelemy
 KOUNDARA
 SAO MATEUS
 SAINT BRIEUC/ARMOR
@@ -4042,7 +4042,7 @@ SANTA ANA DEL YACUMA
 South Bend
 San Luis Obispo County Apt
 SIBI
-  Saibai Island
+Saibai Island
 SPRINGBOK
 Sibu
 Salisbury-Ocean City
@@ -4062,34 +4062,34 @@ Socotra
 Santiago
 Suceava
 Syktyvkar
-  Salina Cruz
+Salina Cruz
 San Cristobal Island
 Santa Cruz Island
 BAGHDAD INTL
 LANGEBAANWEG
-Lubango                                 
+Lubango
 Santiago Del Estero
-Louisville International                
-Sanandaj                                
+Louisville International
+Sanandaj
 Sendai
 Sandakan
 Sundsvall/Harnosand
 SAN DIEGO/BROWN FIELD
-Sandane                                 
+Sandane
 Sand Point
 Santo Domingo Las Americas Apt
 Santander
 SAIDU SHARIF
-Rio de Janeiro Santos Dumont Apt        
+Rio de Janeiro Santos Dumont Apt
 Tel Aviv-Yafo Sde Dov
 Sidney
-Seattle/Tacoma International Apt        
-Sebha                                   
-London Southend Apt                     
-  Seronera
-  Selibaby
+Seattle/Tacoma International Apt
+Sebha
+London Southend Apt
+Seronera
+Selibaby
 Mahe Island
-Sfax                                    
+Sfax
 Orlando Sanford International Airport
 SAN FERNANDO DE APURE
 SAN FERNANDO
@@ -4100,7 +4100,7 @@ Kangerlussuaq
 SOURE
 Sao Filipe
 Santa Fe
-San Francisco International Apt         
+San Francisco International Apt
 SANLIURFA
 SUBIC BAY/OLONGAPO
 Skelleftea
@@ -4108,11 +4108,11 @@ Surgut
 Sonderborg Airport
 SIEGERLAND
 Springfield
-Sermiligaaq                             
-  Sangapi
-Ho Chi Minh City                        
-St George                               
-Sanga Sanga                             
+Sermiligaaq
+Sangapi
+Ho Chi Minh City
+St George
+Sanga Sanga
 St George
 SIERRA GRANDE
 SONGEA
@@ -4120,29 +4120,29 @@ Skagway
 SONGKHLA
 Shanghai Hongqiao International Apt
 Nakashibetsu
-Inda Selassie                           
+Inda Selassie
 Staunton
-Shenyang                                
+Shenyang
 Shungnak
-Shishmaref                              
+Shishmaref
 SHIMOJISHIMA
-Sharjah                                 
+Sharjah
 Shillong
 Nanki Shirahama
 SHELTON - SANDERSON FIELD
 SOKCHO
-Qinhuangdao                             
+Qinhuangdao
 Sheridan
 SHEPPARTON
 Shreveport Regional Apt
 Sharurah
 Shageluk
 SHINYANGA/IBADAKULI
-  Xi'an
+Xi'an
 San Jose Island
 Sal Island
 Simara
-  San Juan
+San Juan
 Singapore Changi Apt
 SMITHTON
 Simferopol
@@ -4152,7 +4152,7 @@ SISHEN
 Sitka
 SAN JUAN DE MARCONA
 San Jose Norman Y. Mineta Intl
-San Jose Cabo                           
+San Jose Cabo
 San Jose del Guaviare
 San Jose
 Sarajevo
@@ -4165,30 +4165,30 @@ San Angelo Mathis Field
 San Juan Luis Munoz Marin Intl Apt
 Shijiazhuang
 SEINAJOKI
-Sao Jorge Island                        
+Sao Jorge Island
 FAIRCHILD AFB
-St Kitts                                
-  Suki
-Samarkand                               
+St Kitts
+Suki
+Samarkand
 Skien
 LACKLAND AFB (KELLY FLD ANNEX)
-Thessaloniki                            
+Thessaloniki
 Surkhet
-Shaktoolik                              
-Stokmarknes                             
+Shaktoolik
+Stokmarknes
 Sokoto
 Skopje
 VOJENS/SKRYDSTRUP
-Sialkot                                 
+Sialkot
 Skyros
 ST.CATHERINE
 Saransk
 Sukkur
 Salta
-Salt Lake City                          
+Salt Lake City
 Sliac
 SALEM - MCNARY FIELD
-Sola                                    
+Sola
 Solwezi
 Saranac Lake
 Salalah
@@ -4205,19 +4205,19 @@ Salekhard
 Sao Luiz
 Santa Maria Island
 CERRO SOMBRERO/FRANCO BIANCO
-  Somerset
+Somerset
 Sacramento International Apt
 Samos
-St Michael                              
+St Michael
 Stella Maris
 SALMON - LEMHI COUNTY
 SANTA MONICA MUNI
 Sampit
 Santa Marta
-Ste Marie                               
+Ste Marie
 SAMEDAN
 Santa Maria
-Santa Ana John Wayne Apt                
+Santa Ana John Wayne Apt
 SNAKE BAY
 SALINAS/GNRAL.ULPIANO PAEZ
 Diamantina (SNDT)
@@ -4228,23 +4228,23 @@ STANTHORPE
 Shannon
 Sakon Nakhon
 St Paul Island
-St-Nazaire                              
+St-Nazaire
 SALINAS MUNI AIRPORT
-Santa Clara                             
-Thandwe                                 
+Santa Clara
+Thandwe
 SIDNEY MUNI/LLOYD W. CARR FLD
 RIO DE JANEIRO/SANTA CRUZ
-Balaton                                 
+Balaton
 Solo City
 SOROCABA
 Sofia
 Sogndal
-Sorkjosen                               
+Sorkjosen
 San Tome
 Espiritu Santo
 SODERHAMN
 PINEHURST S.P.MOORE COUNTY
-Sorong                                  
+Sorong
 SODANKYLA
 Southampton
 Seldovia
@@ -4268,13 +4268,13 @@ NASAN
 STORUMAN
 SIAULIAI
 SCAMPTON
-  Santa Rosa
+Santa Rosa
 SAN LUIS/VALLE DEL CONLARA
 Sucre
-Semarang                                
+Semarang
 SARH
 Samarinda
-  San Borja
+San Borja
 Siorapaluk
 NIZHNY NOVGOROD/SORMOVO
 STRAHAN
@@ -4282,17 +4282,17 @@ Stord
 Sarasota/Bradenton
 SOROTI
 Stony River
-Sirte                                   
+Sirte
 Sari
 Santa Cruz El Trompillo Apt
 Salvador
 St Croix SPB
 SHAW AFB
-  Sholapur
+Sholapur
 Malabo
 Sharm el-Sheikh
 BRUNSWICK/MC KINNON
-Sandnessjoen                            
+Sandnessjoen
 SEOUL DOMESTIC
 SAO LOURENCO
 Sara
@@ -4303,28 +4303,28 @@ GUARUJA/BASE AEREA
 STAUNING
 St Cloud Municipal Apt
 Santo Domingo
-St George Island                        
-Santiago                                
+St George Island
+Santiago
 ST JOSEPH - ROSECRANS MEMORIAL
-St Louis Lambert Intl Apt               
+St Louis Lambert Intl Apt
 Santarem
 London Stansted Apt
 ST. PAUL/DOWNTOWN HOLMAN FIELD
 Stuttgart Airport
 Santa Rosa
-St Thomas Cyril E King Apt              
+St Thomas Cyril E King Apt
 Surat
 Stavropol
-St Croix Henry E. Rohlsen Apt           
+St Croix Henry E. Rohlsen Apt
 SALTO/INTL
 Confresa Airport
 Surabaya
-Lamezia Terme                           
+Lamezia Terme
 Surigao
 Satu Mare
-  Sui
+Sui
 Sun Valley Friedman Memorial Apt
-Summer Beaver                           
+Summer Beaver
 ST. LOUIS/SPIRIT OF ST LOUIS
 FAIRFIELD/TRAVIS AFB
 Suva
@@ -4340,15 +4340,15 @@ Svolvaer
 Savonlinna
 HUNTER AAF AIRPORT/SAVANNAH
 Moscow Sheremetyevo International Apt
-Kuito                                   
-Sevilla                                 
+Kuito
+Sevilla
 Savissivik
 Stevens Village
 Savusavu
 Yekaterinburg
 SAN ANTONIO DEL TACHIRA
-Shantou                                 
-  Siwea
+Shantou
+Siwea
 Newburgh
 SWAN HILL
 South West Bay
@@ -4364,26 +4364,26 @@ Berlin Schoenefeld Apt
 Sirri Island
 Saumlaki
 SLIGO
-St Maarten                              
+St Maarten
 SUA PAN
 SAO FELIX DO ARAGUAIA/RONCADOR
 Sheldon Point
-Srinagar                                
-  Salem
+Srinagar
+Salem
 SAO FELIX DO XINGU
 SIIRT
 SHEMYA/EARECKSON AFS
 Seal Bay
-Sydney Kingsford Smith Apt              
+Sydney Kingsford Smith Apt
 Sirjan
 Simao
-Shonai                                  
+Shonai
 San Jose Tobias Bolanos Apt
-Syracuse                                
+Syracuse
 SAINT-YAN
-  Warraber Island
+Warraber Island
 SEHWAN SHARIF
-Sanya                                   
+Sanya
 Stornoway
 Shiraz
 Soyo
@@ -4396,16 +4396,16 @@ ISLA DE JUVENTUD/SIGUANEA
 SKUKUZA
 SAN CRISTOBAL DE LAS CASAS
 SCHWERIN-PARCHIM
-Shenzhen                                
+Shenzhen
 SZYMANY SZCZYTNO
 Szczecin
 Tobago
 Tacloban
-Daegu                                   
+Daegu
 Tagbilaran
 Tanna
 Taizz
-  Aitape
+Aitape
 Takamatsu
 Tanana
 Tampico
@@ -4421,13 +4421,13 @@ Tabubil
 Tablas
 The Bight
 TABARKA
-Fort Leonard Wood                       
+Fort Leonard Wood
 TABORA
 Tumbes
 Tbilisi
-Tabatinga                               
+Tabatinga
 Nuku'Alofa
-  Tambov
+Tambov
 TSHABONG
 Tabriz
 TENNANT CREEK
@@ -4435,8 +4435,8 @@ Treasure Cay
 TUCUMCARI
 Tarapaca
 TULCEA/CATALOI
-Tacheng                                 
-  Tchibanga
+Tacheng
+Tchibanga
 TUSCALOOSA REGIONAL AIRPORT
 TACOMA MCCHORD AFB
 Tumaco
@@ -4467,7 +4467,7 @@ Terceira
 Tete
 MANAPOURI
 Telluride
-  Tezpur
+Tezpur
 Tefe
 Tufi
 TEOFILO OTONI/J.KUBITSCHECK
@@ -4484,7 +4484,7 @@ Tiga
 Taganrog
 Tirgu Mures
 Tongliao
-Bor                                     
+Bor
 Touggourt
 TANGA
 Tegucigalpa
@@ -4494,10 +4494,10 @@ Teresina
 BERLIN-TEMPELHOF
 THANGOOL
 THAKHEK
-Tachilek                                
+Tachilek
 TROLLHATTAN-VANERSBORG
 THORSHOFN
-Tianshui                                
+Tianshui
 Tehran Mehrabad International Airport
 Sukhothai
 Pituffik
@@ -4508,14 +4508,14 @@ TIARET
 Taif
 Tikehau
 Tarin Kot
-Tijuana                                 
+Tijuana
 Oklahoma City Tinker AFB
 Tembagapura
 Tindouf
 Tripoli
 TINIAN INTL
-Tirupati                                
-  Thursday Island
+Tirupati
+Thursday Island
 Timaru
 Tivat
 TACOMA NARROWS
@@ -4527,20 +4527,20 @@ TOKAT
 Tyumen
 Takume
 Tanjung Pandan
-Kulyab                                  
+Kulyab
 TALKEETNA
 Takoradi
 Tenakee
 TRUCKEE-TAHOE
-Bandar Lampung                          
+Bandar Lampung
 NAKHON SAWAN/TAKHLI
 Tok
 Truk
 TOKUNOSHIMA
-Takapoto                                
+Takapoto
 Kigoma
 THAKURGAON
-Tokushima                               
+Tokushima
 TAK/TAK
 Turku
 Tatakoto
@@ -4574,7 +4574,7 @@ Trombetas
 Tambor
 Tamworth
 TIMIMOUN
-Jinan                                   
+Jinan
 Tin City
 TRINIDAD/ALBERTO DELGADO
 NEW TANEGASHIMA
@@ -4584,50 +4584,50 @@ Tanjung Pinang
 Tununak
 TERNOPIL
 ISLA REY JORGE/TENIENTE R.M.M.
-Tainan                                  
+Tainan
 Tamarindo
 Antananarivo
 Tena
 Tosontsengel
 TORRANCE/ZAMPERINI FIELD
-Tobruk                                  
+Tobruk
 Tioman
-Tozeur                                  
+Tozeur
 Tomsk
 Togiak
 Torres
 MADRID/TORREJON
 Toledo Express Apt
-  Tombouctou
+Tombouctou
 TOPEKA - PHILIP BILLARD MUNI
 TOCOPILLA/BARRILES
 Tromso
 Touho
 TOLEDO
 Toyama
-Tampa International Apt                 
+Tampa International Apt
 TARAPOA
-Taipei Taiwan Taoyuan International Apt 
+Taipei Taiwan Taoyuan International Apt
 TONOPAH
-  Tapini
-  Taplejung
+Tapini
+Taplejung
 Tarapoto
-Tepic                                   
-Trapani                                 
+Tepic
+Trapani
 Tasiussaq Heliport
 AL TAQADDUM
 Tiniteqilaaq Heliport
 Tarko-Sale
-San Domino Island                       
+San Domino Island
 TARAMA
 Torreon
 Trondheim Vaernes Airport
 Tiree
-Oslo Sandefjord-Torp Arpt               
+Oslo Sandefjord-Torp Arpt
 Tauranga
 TURUKHANSK
 Tri-Cities Regional
-Tarakan                                 
+Tarakan
 JACQUELINE COCHRAN REGIONAL
 Turin Caselle Airport
 Taree
@@ -4639,27 +4639,27 @@ Thiruvananthapuram
 Tarawa
 Tiruchchirappalli
 Taipei Sung Shan Apt
-Astana                                  
+Astana
 Venice Treviso/Sant'Angelo Apt
 TSHIKAPA
 Tsushima
-  Tamuin
+Tamuin
 Tianjin
-  Tresco
-Timisoara                               
-  New York
+Tresco
+Timisoara
+New York
 Trang
 Townsville
 Tan Tan
 TORTOLI/ARBATAX
 PORTLAND/TROUTDALE
-Ternate                                 
+Ternate
 TARTAGAL/GRAL ENRIQUE MOSCONI
 THUMRAIT
 Tottori
 Philadelphia Trenton-Mercer Apt
-Tortuquero                              
-Tana Toraja                             
+Tortuquero
+Tana Toraja
 Taitung
 TETOUAN/S.RAMEL
 Tulcan
@@ -4677,14 +4677,14 @@ Tupelo
 Tucurui
 Tucson International Apt
 Tabuk
-  Tubala
-  Morafenobe
+Tubala
+Morafenobe
 Traverse City
 Thief River Falls
 SOUTH LAKE TAHOE
 Tangshan
 Taveuni Island
-Dawe                                    
+Dawe
 Twin Hills
 Toowoomba
 Twin Falls
@@ -4692,31 +4692,31 @@ Tawitawi
 Tawau
 TAICHUNG-CHING CHUAN KANG
 Texarkana
-Berlin Tegel Apt                        
+Berlin Tegel Apt
 Huangshan
 TORSBY
 TALARA/CAPITAN MONTES
-Taiyuan                                 
+Taiyuan
 Tyler
 Knoxville
-Belize City Municipal Apt               
+Belize City Municipal Apt
 Tuzla
-  South Andros
+South Andros
 Trabzon
 ADANA/INCIRLIK
 Ua Huka
 SUAI
-Narsarsuaq                              
+Narsarsuaq
 GUAM/ANDERSON AFB
 Ua Pou
 San Juan
 Samburu
 Uberaba
-  Mabuiag Island
+Mabuiag Island
 Ube
 Ubon Ratchathani
 UTICA / ONEIDA COUNTY
-Ukhta                                   
+Ukhta
 UDEN/VOLKEL
 DARLINGTON COUNTY JETPORT
 Uberlandia
@@ -4724,7 +4724,7 @@ Uzhhorod
 UDINE RIVOLTO MIL
 Udaipur
 Quelimane
-Kume Jima                               
+Kume Jima
 Quetta
 Ufa
 Pilot Point Ugashik Bay Apt
@@ -4737,14 +4737,14 @@ Quinhon
 Utila
 UST-ILIMSK
 QUILLAYUTE
-Quincy                                  
-Quito                                   
+Quincy
+Quito
 Quimper
 QUIRINDI
 XXX
 XXX
 Ukunda
-Osaka Kobe Airport                      
+Osaka Kobe Airport
 UKIAH MUNI
 Ust-Kamenogorsk
 Sevastopol
@@ -4752,12 +4752,12 @@ Ust-Kut
 SAN JULIAN/CPT D.J.D.VAZQUEZ
 Ulei
 Ulundi
-Ulgit                                   
-Al Ula                                  
+Ulgit
+Al Ula
 Lensk
 Ulaanbaatar
 Ulaangom
-Quilpie                                 
+Quilpie
 ULYSSES
 GULU
 Ulyanovsk
@@ -4768,10 +4768,10 @@ Umea
 KUBINKA
 WOOMERA
 UMUARAMA
-  Sumy
-  Una
+Sumy
+Una
 Kunduz
-Kiunga                                  
+Kiunga
 UNION ISLAND
 Unalakleet
 Ranong
@@ -4781,14 +4781,14 @@ Upernavik Kujalleq Heliport
 Uruapan
 Uralsk
 CASTILHO/URUBUPUNGA
-Urumqi                                  
+Urumqi
 Kuressaare
 Uruguaiana
 Uray
 ROUEN/VALLEE DE SEINE
 KURSK VOSTOCHNY
 Surat Thani
-Gurayat                                 
+Gurayat
 Ushuaia
 Usinsk
 Koh Samui
@@ -4799,7 +4799,7 @@ UTRECHT/SOESTERBERG
 Udon Thani
 UTTI
 XXX
-  Tunica
+Tunica
 Upington
 Utapao
 UTTARADIT
@@ -4812,7 +4812,7 @@ Ulan-Ude
 Yuzhno-Sakhalinsk
 ULAN-UDE EAST
 Ouvea
-St Lucia Hewanorra Apt                  
+St Lucia Hewanorra Apt
 EL KHARGA
 MARY NORTH
 Nyala
@@ -4848,7 +4848,7 @@ Fagernes
 Vitoria da Conquista
 Valverde
 TAMPA/VANDENBERG
-Dong Hoi                                
+Dong Hoi
 Viedma
 VALLE DE LA PASCUA
 Vadso
@@ -4869,7 +4869,7 @@ Vilhelmina
 VICHY/CHARMEIL
 VICENZA
 Vienna
-El Vigia                                
+El Vigia
 Vinh City
 Virgin Gorda
 Kavik
@@ -4894,7 +4894,7 @@ Valesdir
 Valera
 Anglesey
 Villa Mercedes
-  Baimuru
+Baimuru
 VANNES/MEUCON
 Vilnius
 Varanasi
@@ -4908,21 +4908,21 @@ VOTUPORANGA
 Voronezh
 Ondjiva
 Vipingo
-  Vopnafj�r�ur
+Vopnafj�r�ur
 Valparaiso Fort Walton Beach Apt
-Chimoio                                 
+Chimoio
 JACKSONVILLE CECIL FLD
-Vieques                                 
+Vieques
 Varadero Juan Gualberto Gomez Apt
 VERO BEACH MUNI
 Virac
 VARKAUS
 Verona Villafranca Airport
 VRYBURG
-  V�r�y
-Villahermosa                            
+V�r�y
+Villahermosa
 VISEU
-Luhansk                                 
+Luhansk
 Stockholm Vasteras Apt
 VITEBSK
 Vientiane
@@ -4934,27 +4934,27 @@ ALBEMARLE / STANLEY COUNTY
 Valledupar
 Veliky Ustyug
 Villavicencio
-Santa Cruz Viru Viru International Apt  
+Santa Cruz Viru Viru International Apt
 Vladivostok
-Illizi                                  
-Lichinga                                
+Illizi
+Lichinga
 Sao Vicente Island
 Vaxjo
 PERU
 Wales
 Wadi al Dawaser
 Wanganui
-  Antsohihy
+Antsohihy
 WALLOPS FLIGHT FACILITY NASA
-  Ambatondrazaka
-  Antsalova
+Ambatondrazaka
+Antsalova
 Waterford
 Warsaw
 ZWARA
-Stebbins                                
+Stebbins
 SCHLESWIG
 Wapenamanda
-Beaver                                  
+Beaver
 CASTRO/GAMBOA
 CHAITEN
 PRETORIA/WONDERBOOM
@@ -4964,7 +4964,7 @@ Weifang
 Weihai
 Weipa
 MANCHESTER WOODFORD
-  Fianarantsoa
+Fianarantsoa
 FRENCHVILLE NORT.AROOSTOOK REG
 Wagga Wagga
 WARANGAL
@@ -4975,13 +4975,13 @@ WADI HALFA
 Whakatane
 Wick
 WIESBADEN - ERBENHEIM
-Nairobi Wilson Apt                      
+Nairobi Wilson Apt
 Winton
 Woja
 LANCASTER
 Wajir
 Won-ju
-  Wanaka
+Wanaka
 WARRACKNABEAL
 WATERKLOOF
 Wakkanai
@@ -4993,10 +4993,10 @@ Wallis Island
 WARRNAMBOOL
 WINNEMUCCA
 MT. KEITH
-  Modlin
-Maroantsetra                            
+Modlin
+Maroantsetra
 White Mountain
-Mananara Avaratra                       
+Mananara Avaratra
 Wamena
 Napakiak
 Wenshan
@@ -5009,7 +5009,7 @@ WOENSDRECHT AB
 WOLLONGONG
 PUERTO AYSEN/CABO1 JUAN ROMAN
 PINCHER CREEK
-  Wipim
+Wipim
 PORVENIR/CAPITAN FUENTES MART.
 PUERTO WILLIAMS/GUARD.ZANARTU
 MACON/ROBINS AFB
@@ -5020,7 +5020,7 @@ Worland
 Wroclaw
 Westray
 South Naknek
-  Westerly
+Westerly
 Westsound
 Westport
 WEST END
@@ -5029,29 +5029,29 @@ Noatak
 Tuntutuliak
 WADDINGTON
 XXX
-  Woitape
-  Tsiroanomandidy
+Woitape
+Tsiroanomandidy
 Wuhai
-Wuhan                                   
+Wuhan
 WILUNA
-Wuyishan                                
+Wuyishan
 WAU
-Wuxi                                    
+Wuxi
 Wuzhou
-Walvis Bay                              
+Walvis Bay
 Wewak
 Whale Pass
-Newtok                                  
+Newtok
 WEST WYALONG
 Wanzhou
 Whyalla
 WYNDHAM
 West Yellowstone
 ARCACHON LA TESTE DE BUCH
-Chapeco                                 
+Chapeco
 ALES/DEAUX
 Bearskin Lake
-Birjand                                 
+Birjand
 BLOIS/LE BREUIL
 CAMBRAI/EPINOY
 CHALON/CHAMPFORGEUIL
@@ -5064,28 +5064,28 @@ Tasiuasaq
 Lille Rail Stn
 Xiangyang
 BRANTFORD
-Hamburg Finkenwerder                    
+Hamburg Finkenwerder
 GOROM GOROM
-Kangiqsualujjuaq                        
+Kangiqsualujjuaq
 Valence Rail FR
 Xichang
 Xilinhot
-Xi'an Xianyang Apt                      
+Xi'an Xianyang Apt
 Reims Rail Stn
 AL UDAID AIR BASE
 Xieng Khouang
-Kasabonika                              
+Kasabonika
 LAC BROCHET
 SAINT LOUIS
 LEMWERDER
 MONTBELIARD/COURCELLES
-Manihi                                  
-Xiamen                                  
+Manihi
+Xiamen
 CAPE CANAVERAL/AFS
-Macas                                   
+Macas
 MOULINS/MONTBEUGNY
-  Yam Island
-Fayetteville Northwest Arkansas Reg Apt 
+Yam Island
+Fayetteville Northwest Arkansas Reg Apt
 Xining
 NEVATIM AB
 ORANGE
@@ -5096,17 +5096,17 @@ XXX
 PUKATAWAGAN
 POPLAR RIVER
 BALAD SOUTHEAST AIRFIELD
-Quepos                                  
-  Qualicum Beach
+Quepos
+Qualicum Beach
 XXX
-Jerez                                   
+Jerez
 Sir Bani Yas Island
 South Caicos
 Tours Rail FR
 SOUTH INDIAN LAKE
 SINGAPORE/SELETAR
 SAUMUR/ST. FLORENT
-Thargomindah                            
+Thargomindah
 TADOULE LAKE
 TIKRIT/AL SAHRA AAF
 Xuzhou
@@ -5115,7 +5115,7 @@ WOLVERHAMPTON
 Strasbourg Rail Stn
 TITUSVILLE/NASA SHUTTLE LDGFAC
 SIOUX NARROWS
-  Yandina
+Yandina
 XXX
 TOULOUSE MONTAUDRAN
 Metz TGV Station
@@ -5123,29 +5123,29 @@ XXX
 Toulon TGV Station FR
 Anahim Lake
 Arctic Bay
-Cat Lake                                
+Cat Lake
 KATTINIQ/DONALDSON
-Fort Frances                            
+Fort Frances
 LA GRANDE 3
 CHILLAN/BERNARDO OHIGGINS
-  Lyall Harbour
+Lyall Harbour
 Yakutat
-Sault Ste Marie                         
+Sault Ste Marie
 YAOUNDE
 Yap
 Attawapiskat
 Miner's Bay
 HALIFAX SHEARWATER
 Angling Lake
-St Anthony                              
+St Anthony
 TOFINO
-Pelly Bay                               
+Pelly Bay
 Baie Comeau
 URANIUM CITY
 BONNYVILLE
-Bagotville                              
-  Black Tickle
-Baker Lake                              
+Bagotville
+Black Tickle
+Baker Lake
 Campbell River Municipal Apt
 Yibin
 BRANDON MUNICIPAL
@@ -5162,82 +5162,82 @@ MIRAMICHI
 Colville Lake
 Charlo
 COCHRANE
-Kugluktuk Coppermine                    
+Kugluktuk Coppermine
 CROSS LAKE
-Chesterfield Inlet                      
+Chesterfield Inlet
 Yuncheng
 CHILLIWACK
-Clyde River                             
+Clyde River
 DAWSON CITY
 BURWASH
-Deer Lake                               
+Deer Lake
 DEASE LAKE
 DAUPHIN LTC W.G.(BILLY)BARKER
 Nain
-Dawson Creek                            
-Desolation Sound                        
+Dawson Creek
+Desolation Sound
 BLOODVEIN RIVER
 YECHON
 MIDLAND HURONIA
 Edmonton International Apt
-Bursa                                   
+Bursa
 Arviat
 ELLIOT LAKE MUNICIPAL
 MANITOWANING MANITOULIN EAST M
 YEOVILTON
-Fort Severn                             
+Fort Severn
 Yasouj
 EDSON
 EUREKA
 Inuvik
-Fort Albany                             
+Fort Albany
 Iqaluit
 Fredericton
 Fort Hope
-Snare Lake                              
-Flin Flon                               
+Snare Lake
+Flin Flon
 FORT RESOLUTION
 Fort Simpson
-Fox Harbour                             
+Fox Harbour
 TEXADA GILLIES BAY
-Ganges Harbor                           
-Fort Good Hope                          
+Ganges Harbor
+Fort Good Hope
 Yonago
 Kingston Norman Rogers Apt
-La Grande                               
+La Grande
 GIMLI INDUSTRIAL PARK AIRPORT
-  Greenway Sound
+Greenway Sound
 GODS LAKE NARROWS
 Gaspe
-Geraldton                               
-Iles de la Madeleine                    
-Igloolik                                
-Havre St Pierre                         
-Kuujjuarapik                            
-Gillam                                  
+Geraldton
+Iles de la Madeleine
+Igloolik
+Havre St Pierre
+Kuujjuarapik
+Gillam
 Grise Fiord
-Port Hope Simpson                       
+Port Hope Simpson
 Dryden
 HOPE
 Charlottetown
-Campbell River Harbor SPB               
-Ulukhaktok                              
-Gjoa Haven                              
-Toronto John C Munro Hamilton           
-Hopedale                                
+Campbell River Harbor SPB
+Ulukhaktok
+Gjoa Haven
+Toronto John C Munro Hamilton
+Hopedale
 Poplar Hill
-Chevery                                 
-  Sechelt
-Montreal St Hubert Apt                  
+Chevery
+Sechelt
+Montreal St Hubert Apt
 Hay River
-Halifax Stanfield International Apt     
+Halifax Stanfield International Apt
 ATIKOKAN MUNI
 Aershan
-Pakuashipi                              
+Pakuashipi
 Yichang
-Ivujivik                                
+Ivujivik
 Yining
-Pond Inlet                              
+Pond Inlet
 DETROIT/WILLOW RUN
 ISLAND LAKE
 Yiwu
@@ -5245,10 +5245,10 @@ ST-JEAN
 Stephenville
 Kamloops
 Kitchener/Waterloo
-Kangirsuk                               
-Schefferville                           
+Kangirsuk
+Schefferville
 Yakima Air Terminal
-Waskaganish                             
+Waskaganish
 Yakutsk
 Klemtu
 Chisasibi
@@ -5257,30 +5257,30 @@ TORONTO BUTTONVILLE MUNI
 LAC LA BICHE
 Kimmirut/Lake Harbour
 CHAPLEAU
-Wha Ti Lac la Martre                    
-Lansdowne House                         
+Wha Ti Lac la Martre
+Lansdowne House
 YLIVIESKA
 MEADOW LAKE
 Lloydminster
 LA TUQUE
 LEAF RAPIDS
 ALERT
-Kelowna                                 
+Kelowna
 Langley Regional
-Montagne Harbor                         
-Mary's Harbour                          
+Montagne Harbor
+Mary's Harbour
 MOOSE JAW V.MARSHALL CM MCEWEN
-Mys-Kamenny                             
-Fort McMurray                           
-Makkovik                                
-Moosonee                                
+Mys-Kamenny
+Fort McMurray
+Makkovik
+Moosonee
 Port McNeil
 YURIMAGUAS/M.BENZAQUEN RENGIFO
 Chibougamau
-Mansons Landing                         
+Mansons Landing
 MANIWAKI
 MONTREAL INTL MIRABEL
-Natashquan                              
+Natashquan
 Yanbu al Bahr
 Wemindji
 OTTAWA/GATINEAU
@@ -5289,86 +5289,86 @@ Youngstown
 HUDSONS HOPE
 Yanji
 MATAGAMI
-North Spirit Lake                       
+North Spirit Lake
 Natuashish
-Nemiscau                                
+Nemiscau
 Yantai
 Yangyang
 Yancheng
 EKATI
-  Old Crow
+Old Crow
 COLD LAKE
-Ogoki                                   
+Ogoki
 OXFORD HOUSE
 High Level
 Yola
 Rainbow Lake
-Ottawa McDonald Cartier Intl Apt        
+Ottawa McDonald Cartier Intl Apt
 VALCARTIER
 PRINCE ALBERT GLASS FIELD
-  Port Alberni
+Port Alberni
 Paulatuk
 CAPE PARRY
 PEACE RIVER
 PORTAGE LA PRAIRIE/SOUTHPORT
-Inukjuak                                
+Inukjuak
 Aupaluk
 PITT MEADOWS BC
-Pickle Lake                             
-Pikangikum                              
-Port Menier                             
-Peawanuck                               
+Pickle Lake
+Pikangikum
+Port Menier
+Peawanuck
 PETERBOROUGH
 Prince Rupert Digby Island Apt
 PORT HAWKESBURY
 Pender Harbor
-Powell River                            
-Puvirnituq                              
-Fort Chipewyan                          
+Powell River
+Puvirnituq
+Fort Chipewyan
 BURNS LAKE
 MUSKOKA
-Quebec International Airport            
-Quaqtaq                                 
-The Pas                                 
+Quebec International Airport
+Quaqtaq
+The Pas
 Red Deer
 Windsor
 WATSON LAKE
 YARMOUTH
-Quadra Island                           
-Kenora                                  
+Quadra Island
+Kenora
 Lethbridge
-Greater Moncton International Airport   
-  Nakina
-Comox                                   
-Regina                                  
+Greater Moncton International Airport
+Nakina
+Comox
+Regina
 ST. THOMAS MUNI
 Thunder Bay
 Grande Prairie
 YORKTON MUNI
 NORTH BATTLEFORD CAMERON
-Gander                                  
-Sydney                                  
+Gander
+Sydney
 Quesnel
-Rae Lakes                               
+Rae Lakes
 Resolute
-Refuge Cove                             
-  Cartwright
+Refuge Cove
+Cartwright
 Rigolet
 RIVIERE-DU-LOUP
-Roberval                                
-Red Lake                                
+Roberval
+Red Lake
 ROCKY MOUNTAIN HOUSE
 OTTAWA/ROCKCLIFFE
 THETFORD MINES
 RED SUCKER LAKE
-Rankin Inlet                            
-Sudbury Airport                         
+Rankin Inlet
+Sudbury Airport
 SHERBROOKE
 SQUAMISH
 STONY RAPIDS
-Lutselke Snowdrift                      
+Lutselke Snowdrift
 St John
-Sanikiluaq                              
+Sanikiluaq
 ST. LEONARD
 Fort Smith
 ST. CATHARINES/NIAGARA
@@ -5380,13 +5380,13 @@ SUMMERSIDE
 Sachs Harbour
 PEMBROKE
 THICKET PORTAGE
-Cape Dorset                             
+Cape Dorset
 Alma
 Sullivan Bay
-Thompson                                
+Thompson
 TERRACE BAY
-Big Trout Lake                          
-Mont Tremblant                          
+Big Trout Lake
+Mont Tremblant
 Tasiujuaq
 TRENTON
 Timmins
@@ -5395,26 +5395,26 @@ Toronto City Centre Apt
 Tuktoyaktuk
 Umiujaq
 LADY FRANKLIN POINT
-Montreal Pierre Elliott Trudeau Int Apt 
+Montreal Pierre Elliott Trudeau Int Apt
 Yuma International Apt
 Yushu
 Repulse Bay
-Hall Beach                              
+Hall Beach
 Rouyn
-  Moroni
+Moroni
 Bonaventure
 LA RONGE (BARBER FIELD)
 VERNON
 Qikiqtarjuaq
-Val D'Or                                
+Val D'Or
 Kuujjuaq
-Norman Wells                            
-Vancouver International Apt             
+Norman Wells
+Vancouver International Apt
 BUFFALO NARROWS
 WIARTON
 Deer Lake
 PETAWAWA
-Kangiqsujuaq                            
+Kangiqsujuaq
 Winnipeg J.A. Richardson Intl Apt
 Victoria Inner Harbour Apt
 Deline
@@ -5423,44 +5423,44 @@ Williams Lake
 Williams Harbour
 LUPIN
 Webequie
-  Whistler
+Whistler
 WRIGLEY
 Cranbrook
 EDMONTON CITY CENTRE
-Saskatoon                               
+Saskatoon
 Medicine Hat
-Fort St John                            
+Fort St John
 RIMOUSKI/RICHELIEU
-Sioux Lookout                           
+Sioux Lookout
 Whale Cove
 Pangnirtung
 EARLTON/TIMISKAMING REGIONAL
-Prince George                           
-Terrace                                 
-London Municipal Apt                    
+Prince George
+Terrace
+London Municipal Apt
 Abbotsford
 Whitehorse
 WAWA
-North Bay                               
+North Bay
 Calgary
-Smithers                                
-Fort Nelson                             
+Smithers
+Fort Nelson
 Penticton
-Charlottetown                           
-Taloyoak                                
-Victoria International Apt              
-Lynn Lake                               
+Charlottetown
+Taloyoak
+Victoria International Apt
+Lynn Lake
 SWIFT CURRENT
-Churchill                               
+Churchill
 Goose Bay
-St Johns                                
+St Johns
 Kapuskasing
-Mont Joli                               
-Toronto Lester B Pearson Intl Apt       
+Mont Joli
+Toronto Lester B Pearson Intl Apt
 TORONTO/DOWNSVIEW
 GORE BAY MANITOULIN
 Yellowknife
-Salluit                                 
+Salluit
 SLAVE LAKE
 Sandspit
 Sarnia
@@ -5470,12 +5470,12 @@ WHITECOURT
 Sept-Iles
 GREENWOOD
 Zhangye
-Trail                                   
+Trail
 YORK LANDING
 Zadar
 Zagreb
 Zahedan
-  Zaranj
+Zaranj
 Valdivia
 Zamboanga
 CAHORS LALBENQUE
@@ -5497,36 +5497,36 @@ Basel/Mulhouse Rail (CH)
 Brno Bus (CZ)
 Delma Island
 Bella Bella
-East Main                               
+East Main
 Goettingen Stn DE
 FOND-DU-LAC
 XXX
 Fort McPherson
-Tulita Fort Norman                      
+Tulita Fort Norman
 XXX
 Philadelphia Rail US
 LANZHOU/ZHONGCHUAN
 GODS RIVER
 LITTLE GRAND RAPIDS
-Gethsemani                              
+Gethsemani
 Gaua
 Zhanjiang
 GRENCHEN
 SHAMSHERNAGAR
 Zhongwei
 Ziguinchor
-Ixtapa/Zihuatanejo                      
+Ixtapa/Zihuatanejo
 JENPEG
-Kaschechewan                            
-Kegaska                                 
+Kaschechewan
+Kegaska
 Le Mans Rail (FR)
-Manzanillo                              
-La Tabatiere                            
+Manzanillo
+La Tabatiere
 Hamburg Rail DE
 Newark Metropark Rail
 MAGDEBURG
 108 MILE AIRPORT
-Masset                                  
+Masset
 Munich Rail (DE)
 Nanaimo Harbour
 Zinder
@@ -5538,10 +5538,10 @@ PUCON
 Queenstown
 Zweibruecken Airport
 Zurich Airport
-Round Lake                              
+Round Lake
 San Salvador
 St-Pierre
-Sandy Lake                              
+Sandy Lake
 SCOTTSDALE
 Tureia
 Tete-a-La Baleine

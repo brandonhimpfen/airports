@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+title: Airports Dataset
+message: If you use this dataset, please cite it using the metadata from this file.
+type: dataset
+authors:
+  - family-names: Himpfen
+    given-names: Brandon
+repository-code: https://github.com/brandonhimpfen/airports
+url: https://github.com/brandonhimpfen/airports
+license: MIT
+version: 1.0.0
+date-released: 2026-05-11
+keywords:
+  - airports
+  - aviation
+  - travel
+  - geospatial-data
+  - open-data

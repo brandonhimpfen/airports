@@ -1,0 +1,48 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/brandonhimpfen/airports/schema/airports.schema.json",
+  "title": "Airports Dataset",
+  "description": "Schema for a lightweight airports dataset containing airport codes, airport names, and coordinates.",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "required": [
+      "code",
+      "code_type",
+      "name",
+      "latitude",
+      "longitude"
+    ],
+    "additionalProperties": false,
+    "properties": {
+      "code": {
+        "type": "string",
+        "minLength": 3,
+        "maxLength": 8,
+        "pattern": "^[A-Z0-9-]+$"
+      },
+      "code_type": {
+        "type": "string",
+        "enum": [
+          "iata",
+          "icao",
+          "local_or_unknown"
+        ]
+      },
+      "name": {
+        "type": "string",
+        "minLength": 1
+      },
+      "latitude": {
+        "type": "number",
+        "minimum": -90,
+        "maximum": 90
+      },
+      "longitude": {
+        "type": "number",
+        "minimum": -180,
+        "maximum": 180
+      }
+    }
+  }
+}

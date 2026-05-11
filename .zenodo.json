@@ -1,0 +1,29 @@
+{
+  "title": "Airports Dataset",
+  "upload_type": "dataset",
+  "description": "A cleaned and structured open dataset of airports with codes, names, and geographic coordinates. This release adds normalized fields, JSON export, schema documentation, validation scripts, citation metadata, and release metadata.",
+  "creators": [
+    {
+      "name": "Himpfen, Brandon",
+      "affiliation": "Brandon Himpfen Media"
+    }
+  ],
+  "access_right": "open",
+  "license": "MIT",
+  "keywords": [
+    "airports",
+    "aviation",
+    "travel",
+    "geospatial data",
+    "open data"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/brandonhimpfen/airports",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ],
+  "version": "1.0.0",
+  "language": "eng"
+}

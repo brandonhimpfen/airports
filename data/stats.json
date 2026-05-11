@@ -1,0 +1,10 @@
+{
+  "record_count": 5571,
+  "field_count": 5,
+  "code_type_counts": {
+    "iata": 5566,
+    "local_or_unknown": 2,
+    "icao": 3
+  },
+  "generated_utc": "2026-05-11T18:40:53Z"
+}

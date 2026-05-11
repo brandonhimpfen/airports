@@ -1,6 +1,57 @@
-Airports
-========
+# Airports Dataset
 
-[![Buy Me A Coffee](https://srv-cdn.himpfen.io/badges/buymeacoffee/buymeacoffee-flat.svg)](https://tinyurl.com/2h9aktmd) &nbsp; [![Ko-Fi](https://srv-cdn.himpfen.io/badges/kofi/kofi-flat.svg)](https://tinyurl.com/d4xnrptz) &nbsp; [![PayPal](https://srv-cdn.himpfen.io/badges/paypal/paypal-flat.svg)](https://tinyurl.com/mr22naua) &nbsp; [![Stripe](https://srv-cdn.himpfen.io/badges/stripe/stripe-flat.svg)](https://tinyurl.com/e8ymxdw3)
+A cleaned, structured, open dataset of airports with airport codes, names, and geographic coordinates.
 
-List of 5,571 airports with the airports' ID number, name, and longitude and latitude in plain text, CSV, data and Excel file formats.
+## Dataset Files
+
+| File | Description |
+|---|---|
+| `data/airports.csv` | Main dataset in CSV format. |
+| `data/airports.json` | JSON export for applications and APIs. |
+| `data/airport-names.txt` | Plain-text list of airport names. |
+| `data/airports.dat` | Pipe-delimited data export. |
+| `data/stats.json` | Basic dataset summary statistics. |
+
+## Fields
+
+| Field | Description |
+|---|---|
+| `code` | Airport identifier from the original dataset. |
+| `code_type` | Inferred code category: `iata`, `icao`, or `local_or_unknown`. |
+| `name` | Airport name. |
+| `latitude` | Decimal latitude. |
+| `longitude` | Decimal longitude. |
+
+## Current Size
+
+This release contains **5,571 airport records**.
+
+## Example
+
+```csv
+code,code_type,name,latitude,longitude
+AAA,iata,Anaa,-17.3542,-145.4961
+AAC,iata,EL-ARISH,31.0733,33.8358
+```
+
+## Validation
+
+Run the validation script before publishing changes:
+
+```bash
+python scripts/validate.py
+```
+
+The script checks required headers, coordinates, blank values, code formatting, and leading or trailing whitespace in names.
+
+## Recommended Future Improvements
+
+Future releases could add country, country code, municipality, region, timezone, airport type, operational status, IATA/ICAO reconciliation, and source-level provenance for each record.
+
+## Citation
+
+Citation metadata is available in `CITATION.cff`.
+
+## License
+
+This project is licensed under the MIT License.
